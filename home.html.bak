@@ -1,0 +1,1546 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <!--metatextblock--><title>Home</title>
+    <meta property="og:url" content="http://zeleniydomiki.tilda.ws"/>
+    <meta property="og:title" content="Home"/>
+    <meta property="og:description" content=""/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:image" content="images/tild6666-3735-4565-b533-393132613066__-__resize__504x__dsc_0931.jpg"/>
+    <link rel="canonical" href="http://zeleniydomiki.tilda.ws"><!--/metatextblock-->
+    <meta name="format-detection" content="telephone=no"/>
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+    <link rel="dns-prefetch" href="https://ws.tildacdn.com">
+    <link rel="dns-prefetch" href="https://fonts.tildacdn.com">
+    <link rel="shortcut icon" href="images/tildafavicon.ico" type="image/x-icon"/><!-- Assets -->
+    <script src="https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js" async charset="utf-8"></script>
+    <link rel="stylesheet" href="css/tilda-grid-3.0.min.css" type="text/css" media="all" onerror="this.loaderr='y';"/>
+    <link rel="stylesheet" href="css/home.min.css?t=1689098284" type="text/css" media="all"
+          onerror="this.loaderr='y';"/>
+    <link rel="stylesheet" href="css/animation-2.0.min.css" type="text/css" media="all"
+          onerror="this.loaderr='y';"/>
+    <link rel="stylesheet" href="css/tilda-cover-1.0.min.css" type="text/css" media="all" onerror="this.loaderr='y';"/>
+    <link rel="stylesheet" href="css/tilda-slds-1.4.min.css" type="text/css" media="print" onload="this.media='all';"
+          onerror="this.loaderr='y';"/>
+    <noscript>
+        <link rel="stylesheet" href="css/tilda-slds-1.4.min.css" type="text/css" media="all"/>
+    </noscript>
+    <link rel="stylesheet" href="css/tilda-cards-1.0.min.css" type="text/css" media="all" onerror="this.loaderr='y';"/>
+    <link rel="stylesheet" href="css/tilda-zoom-2.0.min.css" type="text/css" media="print" onload="this.media='all';"
+          onerror="this.loaderr='y';"/>
+    <noscript>
+        <link rel="stylesheet" href="css/tilda-zoom-2.0.min.css" type="text/css" media="all"/>
+    </noscript>
+    <script type="text/javascript">TildaFonts = ["2643", "2645", "2648", "2632"];</script>
+    <script type="text/javascript" src="js/tilda-fonts.min.js" charset="utf-8" onerror="this.loaderr='y';"></script>
+    <script type="text/javascript">(function (d) {
+        if (!d.visibilityState) {
+            var s = d.createElement('script');
+            s.src = 'js/tilda-polyfill-1.0.min.js';
+            d.getElementsByTagName('head')[0].appendChild(s);
+        }
+    })(document);
+
+    function t_onReady(func) {
+        if (document.readyState != 'loading') {
+            func();
+        } else {
+            document.addEventListener('DOMContentLoaded', func);
+        }
+    }
+
+    function t_onFuncLoad(funcName, okFunc, time) {
+        if (typeof window[funcName] === 'function') {
+            okFunc();
+        } else {
+            setTimeout(function () {
+                t_onFuncLoad(funcName, okFunc, time);
+            }, (time || 100));
+        }
+    }
+
+    function t_throttle(fn, threshhold, scope) {
+        return function () {
+            fn.apply(scope || this, arguments);
+        };
+    }</script>
+    <script src="js/tilda-scripts-3.0.min.js" charset="utf-8" defer onerror="this.loaderr='y';"></script>
+    <script src="js/home.min.js?t=1689098284" charset="utf-8" async
+            onerror="this.loaderr='y';"></script>
+    <script src="js/lazyload-1.3.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="js/tilda-animation-2.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="js/tilda-cover-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="js/tilda-slds-1.4.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="js/hammer.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="js/tilda-cards-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="js/tilda-map-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="js/tilda-menu-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="js/tilda-zoom-2.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="js/tilda-skiplink-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="js/tilda-events-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script type="text/javascript">window.dataLayer = window.dataLayer || [];</script>
+    <script type="text/javascript">(function () {
+        if ((/bot|google|yandex|baidu|bing|msn|duckduckbot|teoma|slurp|crawler|spider|robot|crawling|facebook/i.test(navigator.userAgent)) === false && typeof (sessionStorage) != 'undefined' && sessionStorage.getItem('visited') !== 'y' && document.visibilityState) {
+            var style = document.createElement('style');
+            style.type = 'text/css';
+            style.innerHTML = '@media screen and (min-width: 980px) {.t-records {opacity: 0;}.t-records_animated {-webkit-transition: opacity ease-in-out .2s;-moz-transition: opacity ease-in-out .2s;-o-transition: opacity ease-in-out .2s;transition: opacity ease-in-out .2s;}.t-records.t-records_visible {opacity: 1;}}';
+            document.getElementsByTagName('head')[0].appendChild(style);
+
+            function t_setvisRecs() {
+                var alr = document.querySelectorAll('.t-records');
+                Array.prototype.forEach.call(alr, function (el) {
+                    el.classList.add("t-records_animated");
+                });
+                setTimeout(function () {
+                    Array.prototype.forEach.call(alr, function (el) {
+                        el.classList.add("t-records_visible");
+                    });
+                    sessionStorage.setItem("visited", "y");
+                }, 400);
+            }
+
+            document.addEventListener('DOMContentLoaded', t_setvisRecs);
+        }
+    })();</script>
+</head>
+<body class="t-body" style="margin:0;"><!--allrecords-->
+<div id="allrecords" data-tilda-export="yes" class="t-records" data-hook="blocks-collection-content-node"
+     data-tilda-project-id="7521004" data-tilda-page-id="37873596" data-tilda-page-alias="home"
+     data-tilda-formskey="2ef02ac368e5dc1b03e21b9997521004" data-tilda-lazy="yes"><!--header-->
+    <div id="t-header" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="7521004"
+         data-tilda-page-id="37894877" data-tilda-page-alias="header"
+         data-tilda-formskey="2ef02ac368e5dc1b03e21b9997521004" data-tilda-lazy="yes">
+        <div id="rec612264099" class="r t-rec" style=" " data-animationappear="off" data-record-type="821"><!-- t821 -->
+            <div id="nav612264099marker"></div>
+            <div id="nav612264099" class="t821 t821__positionstatic "
+                 style="background-color: rgba(71,167,106,1); height:8vh; " data-bgcolor-hex="#47a76a"
+                 data-bgcolor-rgba="rgba(71,167,106,1)" data-navmarker="nav612264099marker" data-appearoffset=""
+                 data-bgopacity-two="" data-menushadow="" data-bgopacity="1" data-menu="yes">
+                <div class="t821__maincontainer " style="height:8vh;">
+                    <div class="t821__leftwrapper" style="">
+                        <div class="t821__logo-wrapper t821__logo-wrapper_inlineblock">
+                            <div class="t821__logo t-title" field="title" style="font-weight:700;"><span
+                                    style="color: rgb(255, 255, 255);">Гостиничный комплекс "Зеленые домики"</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="t821__rightwrapper" style="">
+                        <div class="t821__phone-container" style="">
+                            <svg role="presentation" class="t821__phone-icon" width="45px" height="45px" fill="#000000"
+                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100.353 100.352">
+                                <path d="M39.514 85.637c3.975 2.226 7.89 3.344 11.537 3.344 3.053-.001 5.918-.785 8.468-2.359l9.399-5.798a1.5 1.5 0 0 0 .489-2.065L61.26 65.555a1.502 1.502 0 0 0-2.065-.488l-9.47 5.845c-1.456.898-3.324 1.185-5.121.79-1.797-.396-3.331-1.438-4.209-2.862L27.524 47.981c-1.861-3.016-.923-6.984 2.091-8.845l.001-.001 9.829-6.068a1.5 1.5 0 0 0 .488-2.064l-8.148-13.201a1.498 1.498 0 0 0-2.064-.489L19.9 23.375c-10.946 6.756-10.562 24.491.936 43.129 5.271 8.546 11.905 15.341 18.678 19.133zm-18.037-59.71l8.544-5.273 6.573 10.648-8.553 5.28-.004.003c-4.418 2.731-5.794 8.548-3.065 12.97l12.871 20.858c1.301 2.111 3.531 3.648 6.117 4.218 2.551.559 5.228.136 7.341-1.168l8.193-5.057 6.572 10.65-8.123 5.011c-5.932 3.66-12.499 1.45-16.963-1.049-6.335-3.548-12.583-9.972-17.591-18.09-10.57-17.134-11.356-33.172-1.912-39.001zM49.58 33.552c4.854.287 9.15 2.781 11.788 6.844 2.522 3.872 3.129 8.617 1.664 13.019a1.498 1.498 0 0 0 1.423 1.973c.629 0 1.214-.397 1.423-1.026 1.756-5.274 1.028-10.962-1.995-15.602-3.114-4.798-8.396-7.865-14.126-8.204-.835-.035-1.537.582-1.586 1.409a1.5 1.5 0 0 0 1.409 1.587z"/>
+                                <path d="M51.68 22.418c7.86.903 14.837 5.216 19.142 11.831a26.37 26.37 0 0 1 3.242 21.664 1.498 1.498 0 0 0 1.442 1.914 1.5 1.5 0 0 0 1.44-1.086 29.372 29.372 0 0 0-3.61-24.128c-4.794-7.367-12.562-12.169-21.314-13.175-.807-.095-1.566.496-1.661 1.319s.495 1.566 1.319 1.661z"/>
+                                <path d="M53.731 12.612A36.328 36.328 0 0 1 79.198 28.8a36.424 36.424 0 0 1 4.633 29.301 1.5 1.5 0 0 0 1.45 1.89c.661 0 1.268-.44 1.447-1.11a39.425 39.425 0 0 0-5.015-31.717A39.329 39.329 0 0 0 54.146 9.641a1.504 1.504 0 0 0-1.692 1.279 1.498 1.498 0 0 0 1.277 1.692z"/>
+                            </svg>
+                            <span class="t821__text t-descr t-descr_xxs" field="descr" style="font-weight:500;"><a
+                                    href="tel:+79787311212"
+                                    style="color: rgb(0, 0, 0);"><strong>+7 (978) 731-12-12</strong></a><br/>Светлана</span>
+                        </div>
+                        <div class="t821__adress-container" style="">
+                            <svg role="presentation" class="t821__adress-icon" width="45px" height="45px" fill="#000000"
+                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100.353 100.352">
+                                <path d="M58.23 69.992l14.993-24.108c.049-.078.09-.16.122-.245a26.697 26.697 0 0 0 3.956-13.969c0-14.772-12.018-26.79-26.79-26.79S23.72 16.898 23.72 31.67c0 4.925 1.369 9.75 3.96 13.975.03.074.065.146.107.216l14.455 24.191c-11.221 1.586-18.6 6.2-18.6 11.797 0 6.935 11.785 12.366 26.829 12.366S77.3 88.783 77.3 81.849c.001-5.623-7.722-10.34-19.07-11.857zM30.373 44.294A23.708 23.708 0 0 1 26.72 31.67c0-13.118 10.672-23.79 23.791-23.79 13.118 0 23.79 10.672 23.79 23.79 0 4.457-1.263 8.822-3.652 12.624-.05.08-.091.163-.124.249L54.685 70.01c-.238.365-.285.448-.576.926l-4 6.432-19.602-32.804a1.508 1.508 0 0 0-.134-.27zm20.099 46.921c-14.043 0-23.829-4.937-23.829-9.366 0-4.02 7.37-7.808 17.283-8.981l4.87 8.151c.269.449.751.726 1.274.73h.013c.518 0 1-.268 1.274-.708l5.12-8.232C66.548 73.9 74.3 77.784 74.3 81.849c.001 4.43-9.785 9.366-23.828 9.366z"/>
+                                <path d="M60.213 31.67c0-5.371-4.37-9.741-9.741-9.741s-9.741 4.37-9.741 9.741 4.37 9.741 9.741 9.741c5.371 0 9.741-4.37 9.741-9.741zm-16.482 0c0-3.717 3.024-6.741 6.741-6.741s6.741 3.024 6.741 6.741-3.023 6.741-6.741 6.741-6.741-3.024-6.741-6.741z"/>
+                            </svg>
+                            <span class="t821__text t-descr t-descr_xxs" field="text" style="font-weight:500;"><strong>Курортное</strong><br/>ул. Курортная, 1 М</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <style>@media screen and (max-width: 640px) {
+                #rec612264099 .t821__logo-wrapper_inlineblock {
+                    margin-bottom: 0px;
+                }
+            }</style>
+            <script>t_onReady(function () {
+                t_onFuncLoad('t821_init', function () {
+                    t821_init('612264099');
+                });
+            });</script>
+            <style>#rec612264099 .t-menu__link-item {
+            }
+
+            @supports (overflow:-webkit-marquee) and (justify-content:inherit) {
+                #rec612264099 .t-menu__link-item,
+                #rec612264099 .t-menu__link-item.t-active {
+                    opacity: 1 !important;
+                }
+            }</style>
+            <!--[if IE 8]>
+            <style>#rec612264099 .t821 {
+                filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D947a76a', endColorstr='#D947a76a');
+            }</style><![endif]--></div>
+        <div id="rec612263841" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; "
+             data-animationappear="off" data-record-type="450">
+            <div class="t450__menu__content "
+                 style="top:15px; " data-menu="yes" data-appearoffset="" data-hideoffset=""
+            >
+                <div class="t450__burger_container t450__small ">
+                    <div class="t450__burger_bg t450__burger_cirqle"
+                         style="; opacity:0.50;"></div>
+                    <button type="button" class="t-menuburger t-menuburger_first t-menuburger__small"><span
+                            style="background-color:#ffffff;"></span><span
+                            style="background-color:#ffffff;"></span><span
+                            style="background-color:#ffffff;"></span><span style="background-color:#ffffff;"></span>
+                    </button>
+                    <script>function t_menuburger_init(recid) {
+                        var rec = document.querySelector('#rec' + recid);
+                        if (!rec) return;
+                        var burger = rec.querySelector('.t-menuburger');
+                        if (!burger) return;
+                        var isSecondStyle = burger.classList.contains('t-menuburger_second');
+                        if (isSecondStyle && !window.isMobile && !('ontouchend' in document)) {
+                            burger.addEventListener('mouseenter', function () {
+                                if (burger.classList.contains('t-menuburger-opened')) return;
+                                burger.classList.remove('t-menuburger-unhovered');
+                                burger.classList.add('t-menuburger-hovered');
+                            });
+                            burger.addEventListener('mouseleave', function () {
+                                if (burger.classList.contains('t-menuburger-opened')) return;
+                                burger.classList.remove('t-menuburger-hovered');
+                                burger.classList.add('t-menuburger-unhovered');
+                                setTimeout(function () {
+                                    burger.classList.remove('t-menuburger-unhovered');
+                                }, 300);
+                            });
+                        }
+                        burger.addEventListener('click', function () {
+                            if (!burger.closest('.tmenu-mobile') &&
+                                !burger.closest('.t450__burger_container') &&
+                                !burger.closest('.t466__container') &&
+                                !burger.closest('.t204__burger')) {
+                                burger.classList.toggle('t-menuburger-opened');
+                                burger.classList.remove('t-menuburger-unhovered');
+                            }
+                        });
+                        var menu = rec.querySelector('[data-menu="yes"]');
+                        if (!menu) return;
+                        var menuLinks = menu.querySelectorAll('.t-menu__link-item');
+                        var submenuClassList = ['t978__menu-link_hook', 't978__tm-link', 't966__tm-link', 't794__tm-link', 't-menusub__target-link'];
+                        Array.prototype.forEach.call(menuLinks, function (link) {
+                            link.addEventListener('click', function () {
+                                var isSubmenuHook = submenuClassList.some(function (submenuClass) {
+                                    return link.classList.contains(submenuClass);
+                                });
+                                if (isSubmenuHook) return;
+                                burger.classList.remove('t-menuburger-opened');
+                            });
+                        });
+                        menu.addEventListener('clickedAnchorInTooltipMenu', function () {
+                            burger.classList.remove('t-menuburger-opened');
+                        });
+                    }
+
+                    t_onReady(function () {
+                        t_onFuncLoad('t_menuburger_init', function () {
+                            t_menuburger_init('612263841');
+                        });
+                    });</script>
+                    <style>.t-menuburger {
+                        position: relative;
+                        flex-shrink: 0;
+                        width: 28px;
+                        height: 20px;
+                        padding: 0;
+                        border: none;
+                        background-color: transparent;
+                        outline: none;
+                        -webkit-transform: rotate(0deg);
+                        transform: rotate(0deg);
+                        transition: transform .5s ease-in-out;
+                        cursor: pointer;
+                        z-index: 999;
+                    }
+
+                    /*---menu burger lines---*/
+                    .t-menuburger span {
+                        display: block;
+                        position: absolute;
+                        width: 100%;
+                        opacity: 1;
+                        left: 0;
+                        -webkit-transform: rotate(0deg);
+                        transform: rotate(0deg);
+                        transition: .25s ease-in-out;
+                        height: 3px;
+                        background-color: #000;
+                    }
+
+                    .t-menuburger span:nth-child(1) {
+                        top: 0px;
+                    }
+
+                    .t-menuburger span:nth-child(2),
+                    .t-menuburger span:nth-child(3) {
+                        top: 8px;
+                    }
+
+                    .t-menuburger span:nth-child(4) {
+                        top: 16px;
+                    }
+
+                    /*menu burger big*/
+                    .t-menuburger__big {
+                        width: 42px;
+                        height: 32px;
+                    }
+
+                    .t-menuburger__big span {
+                        height: 5px;
+                    }
+
+                    .t-menuburger__big span:nth-child(2),
+                    .t-menuburger__big span:nth-child(3) {
+                        top: 13px;
+                    }
+
+                    .t-menuburger__big span:nth-child(4) {
+                        top: 26px;
+                    }
+
+                    /*menu burger small*/
+                    .t-menuburger__small {
+                        width: 22px;
+                        height: 14px;
+                    }
+
+                    .t-menuburger__small span {
+                        height: 2px;
+                    }
+
+                    .t-menuburger__small span:nth-child(2),
+                    .t-menuburger__small span:nth-child(3) {
+                        top: 6px;
+                    }
+
+                    .t-menuburger__small span:nth-child(4) {
+                        top: 12px;
+                    }
+
+                    /*menu burger opened*/
+                    .t-menuburger-opened span:nth-child(1) {
+                        top: 8px;
+                        width: 0%;
+                        left: 50%;
+                    }
+
+                    .t-menuburger-opened span:nth-child(2) {
+                        -webkit-transform: rotate(45deg);
+                        transform: rotate(45deg);
+                    }
+
+                    .t-menuburger-opened span:nth-child(3) {
+                        -webkit-transform: rotate(-45deg);
+                        transform: rotate(-45deg);
+                    }
+
+                    .t-menuburger-opened span:nth-child(4) {
+                        top: 8px;
+                        width: 0%;
+                        left: 50%;
+                    }
+
+                    .t-menuburger-opened.t-menuburger__big span:nth-child(1) {
+                        top: 6px;
+                    }
+
+                    .t-menuburger-opened.t-menuburger__big span:nth-child(4) {
+                        top: 18px;
+                    }
+
+                    .t-menuburger-opened.t-menuburger__small span:nth-child(1),
+                    .t-menuburger-opened.t-menuburger__small span:nth-child(4) {
+                        top: 6px;
+                    }
+
+                    /*---menu burger first style---*/
+                    @media (hover), (min-width: 0\0
+                    ) {
+                        .t-menuburger_first:hover span:nth-child(1) {
+                            transform: translateY(1px);
+                        }
+
+                        .t-menuburger_first:hover span:nth-child(4) {
+                            transform: translateY(-1px);
+                        }
+
+                        .t-menuburger_first.t-menuburger__big:hover span:nth-child(1) {
+                            transform: translateY(3px);
+                        }
+
+                        .t-menuburger_first.t-menuburger__big:hover span:nth-child(4) {
+                            transform: translateY(-3px);
+                        }
+                    }
+
+                    /*---menu burger second style---*/
+                    .t-menuburger_second span:nth-child(2),
+                    .t-menuburger_second span:nth-child(3) {
+                        width: 80%;
+                        left: 20%;
+                        right: 0;
+                    }
+
+                    @media (hover), (min-width: 0\0
+                    ) {
+                        .t-menuburger_second.t-menuburger-hovered span:nth-child(2),
+                        .t-menuburger_second.t-menuburger-hovered span:nth-child(3) {
+                            animation: t-menuburger-anim 0.3s ease-out normal forwards;
+                        }
+
+                        .t-menuburger_second.t-menuburger-unhovered span:nth-child(2),
+                        .t-menuburger_second.t-menuburger-unhovered span:nth-child(3) {
+                            animation: t-menuburger-anim2 0.3s ease-out normal forwards;
+                        }
+                    }
+
+                    .t-menuburger_second.t-menuburger-opened span:nth-child(2),
+                    .t-menuburger_second.t-menuburger-opened span:nth-child(3) {
+                        left: 0;
+                        right: 0;
+                        width: 100% !important;
+                    }
+
+                    /*---menu burger third style---*/
+                    .t-menuburger_third span:nth-child(4) {
+                        width: 70%;
+                        left: unset;
+                        right: 0;
+                    }
+
+                    @media (hover), (min-width: 0\0
+                    ) {
+                        .t-menuburger_third:not(.t-menuburger-opened):hover span:nth-child(4) {
+                            width: 100%;
+                        }
+                    }
+
+                    .t-menuburger_third.t-menuburger-opened span:nth-child(4) {
+                        width: 0 !important;
+                        right: 50%;
+                    }
+
+                    /*---menu burger fourth style---*/
+                    .t-menuburger_fourth {
+                        height: 12px;
+                    }
+
+                    .t-menuburger_fourth.t-menuburger__small {
+                        height: 8px;
+                    }
+
+                    .t-menuburger_fourth.t-menuburger__big {
+                        height: 18px;
+                    }
+
+                    .t-menuburger_fourth span:nth-child(2),
+                    .t-menuburger_fourth span:nth-child(3) {
+                        top: 4px;
+                        opacity: 0;
+                    }
+
+                    .t-menuburger_fourth span:nth-child(4) {
+                        top: 8px;
+                    }
+
+                    .t-menuburger_fourth.t-menuburger__small span:nth-child(2),
+                    .t-menuburger_fourth.t-menuburger__small span:nth-child(3) {
+                        top: 3px;
+                    }
+
+                    .t-menuburger_fourth.t-menuburger__small span:nth-child(4) {
+                        top: 6px;
+                    }
+
+                    .t-menuburger_fourth.t-menuburger__small span:nth-child(2),
+                    .t-menuburger_fourth.t-menuburger__small span:nth-child(3) {
+                        top: 3px;
+                    }
+
+                    .t-menuburger_fourth.t-menuburger__small span:nth-child(4) {
+                        top: 6px;
+                    }
+
+                    .t-menuburger_fourth.t-menuburger__big span:nth-child(2),
+                    .t-menuburger_fourth.t-menuburger__big span:nth-child(3) {
+                        top: 6px;
+                    }
+
+                    .t-menuburger_fourth.t-menuburger__big span:nth-child(4) {
+                        top: 12px;
+                    }
+
+                    @media (hover), (min-width: 0\0
+                    ) {
+                        .t-menuburger_fourth:not(.t-menuburger-opened):hover span:nth-child(1) {
+                            transform: translateY(1px);
+                        }
+
+                        .t-menuburger_fourth:not(.t-menuburger-opened):hover span:nth-child(4) {
+                            transform: translateY(-1px);
+                        }
+
+                        .t-menuburger_fourth.t-menuburger__big:not(.t-menuburger-opened):hover span:nth-child(1) {
+                            transform: translateY(3px);
+                        }
+
+                        .t-menuburger_fourth.t-menuburger__big:not(.t-menuburger-opened):hover span:nth-child(4) {
+                            transform: translateY(-3px);
+                        }
+                    }
+
+                    .t-menuburger_fourth.t-menuburger-opened span:nth-child(1),
+                    .t-menuburger_fourth.t-menuburger-opened span:nth-child(4) {
+                        top: 4px;
+                    }
+
+                    .t-menuburger_fourth.t-menuburger-opened span:nth-child(2),
+                    .t-menuburger_fourth.t-menuburger-opened span:nth-child(3) {
+                        opacity: 1;
+                    }
+
+                    /*---menu burger animations---*/
+                    @keyframes t-menuburger-anim {
+                        0% {
+                            width: 80%;
+                            left: 20%;
+                            right: 0;
+                        }
+                        50% {
+                            width: 100%;
+                            left: 0;
+                            right: 0;
+                        }
+                        100% {
+                            width: 80%;
+                            left: 0;
+                            right: 20%;
+                        }
+                    }
+
+                    @keyframes t-menuburger-anim2 {
+                        0% {
+                            width: 80%;
+                            left: 0;
+                        }
+                        50% {
+                            width: 100%;
+                            right: 0;
+                            left: 0;
+                        }
+                        100% {
+                            width: 80%;
+                            left: 20%;
+                            right: 0;
+                        }
+                    }</style>
+                </div>
+            </div><!-- t450 -->
+            <div id="nav612263841marker"></div>
+            <div class="t450__overlay">
+                <div class="t450__overlay_bg"
+                     style="background-color:#acd4ba; "></div>
+            </div>
+            <div id="nav612263841" class="t450 " data-tooltip-hook="#menuopen"
+                 style="max-width: 260px;background-color: #47a76a;">
+                <button type="button"
+                        class="t450__close-button t450__close t450_opened "
+                        style="background-color: #47a76a;"
+                        aria-label="Закрыть меню">
+                    <div class="t450__close_icon"><span style="background-color:#ffffff;"></span><span
+                            style="background-color:#ffffff;"></span><span
+                            style="background-color:#ffffff;"></span><span style="background-color:#ffffff;"></span>
+                    </div>
+                </button>
+                <div class="t450__container t-align_left">
+                    <div class="t450__top">
+                        <nav class="t450__menu"
+                             aria-label="Основная навигация">
+                            <ul role="list" class="t450__list t-menu__list">
+                                <li class="t450__list_item"
+                                ><a class="t-menu__link-item "
+                                    href="/" data-menu-submenu-hook="" data-menu-item-number="1"
+                                    style="color:#ffffff;font-size:24px;">Главная</a></li>
+                                <li class="t450__list_item"
+                                ><a class="t-menu__link-item "
+                                    href="rooms.html" data-menu-submenu-hook="" data-menu-item-number="2"
+                                    style="color:#ffffff;font-size:24px;">Номера</a></li>
+                                <li class="t450__list_item"
+                                ><a class="t-menu__link-item "
+                                    href="additional_services.html" data-menu-submenu-hook="" data-menu-item-number="3"
+                                    style="color:#ffffff;font-size:24px;">Доп услуги</a></li>
+                                <li class="t450__list_item"
+                                ><a class="t-menu__link-item "
+                                    href="gallery.html" data-menu-submenu-hook="" data-menu-item-number="4"
+                                    style="color:#ffffff;font-size:24px;">Галерея</a></li>
+                                <li class="t450__list_item"
+                                ><a class="t-menu__link-item "
+                                    href="contacts.html" data-menu-submenu-hook="" data-menu-item-number="5"
+                                    style="color:#ffffff;font-size:24px;">Контакты</a></li>
+                                <li class="t450__list_item"
+                                ><a class="t-menu__link-item "
+                                    href="reviews.html" data-menu-submenu-hook="" data-menu-item-number="6"
+                                    style="color:#ffffff;font-size:24px;">Отзывы</a></li>
+                                <li class="t450__list_item"
+                                ><a class="t-menu__link-item "
+                                    href="rools.html" data-menu-submenu-hook="" data-menu-item-number="7"
+                                    style="color:#ffffff;font-size:24px;">Правила</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="t450__rightside">
+                        <div class="t450__rightcontainer">
+                            <div class="t450__right_descr t-descr t-descr_xs" field="descr" style="">Всегда рады новой
+                                встрече!
+                            </div>
+                            <div class="t450__right_social_links">
+                                <div class="t-sociallinks">
+                                    <div class="t-sociallinks__wrapper"><!-- new soclinks -->
+                                        <div class="t-sociallinks__item t-sociallinks__item_phone"><a
+                                                href="tel:+7 (978) 731-12-12" target="_blank" rel="nofollow"
+                                                style="width: 30px; height: 30px;">
+                                            <svg class="t-sociallinks__svg" width=30px height=30px viewBox="0 0 100 100"
+                                                 fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                      d="M50 100C77.6142 100 100 77.6142 100 50C100 22.3858 77.6142 0 50 0C22.3858 0 0 22.3858 0 50C0 77.6142 22.3858 100 50 100ZM32.3668 30.3616C33.8958 28.835 34.6798 28.1875 35.1534 28.0601C35.715 27.909 36.2052 28.0405 36.7168 28.4797C37.1497 28.8512 38.2438 29.9713 38.9927 30.8096C41.1931 33.2729 43.8747 36.6359 44.2503 37.4031C44.3639 37.6353 44.375 37.701 44.3558 38.0323C44.3204 38.643 44.196 38.8343 43.3793 39.5344C42.0767 40.6509 40.0803 42.739 39.3824 43.7149C38.9257 44.3535 38.9126 44.7536 39.3248 45.483C39.675 46.1027 41.378 48.345 42.5783 49.7667C44.5875 52.1467 46.9159 54.3696 49.1773 56.0669C50.8579 57.3283 53.2214 58.7821 54.8035 59.5275C55.9343 60.0603 56.2878 60.0303 57.0122 59.3401C57.7069 58.6782 58.5246 57.6102 59.8946 55.5759C60.3408 54.9132 60.7739 54.3136 60.857 54.2434C61.1104 54.0293 61.3967 53.9282 61.8141 53.9055C62.0813 53.891 62.2608 53.9062 62.4057 53.9555C62.6843 54.0504 63.4107 54.5045 66.36 56.4276C67.7285 57.32 69.2454 58.3032 69.7309 58.6125C72.4818 60.3651 72.7871 60.6005 72.9291 61.0781C73.1185 61.7157 72.9605 62.1254 72.063 63.3233C70.9487 64.8107 69.0734 66.8197 67.674 68.0252C66.5388 69.0032 65.0797 69.9865 63.6409 70.743L63.0188 71.0701L62.389 71.0696C60.5532 71.0685 58.822 70.7024 56.1724 69.7552C49.967 67.5366 44.465 64.2895 39.647 60.0025C38.7431 59.1981 36.6429 57.0816 35.8606 56.1866C33.2537 53.2039 31.2905 50.2948 29.5948 46.9021C28.373 44.4575 27.2502 41.6203 27.0609 40.4995C26.7835 38.8572 27.4592 36.7086 28.9757 34.4108C29.8832 33.0359 30.8773 31.8488 32.3668 30.3616V30.3616Z"
+                                                      fill="#ffffff"/>
+                                            </svg>
+                                        </a></div>
+                                        <div class="t-sociallinks__item t-sociallinks__item_whatsapp"><a
+                                                href="https://wa.me/79787311212" target="_blank" rel="nofollow"
+                                                style="width: 30px; height: 30px;">
+                                            <svg class="t-sociallinks__svg" width=30px height=30px viewBox="0 0 100 100"
+                                                 fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                      d="M50 100C77.6142 100 100 77.6142 100 50C100 22.3858 77.6142 0 50 0C22.3858 0 0 22.3858 0 50C0 77.6142 22.3858 100 50 100ZM69.7626 28.9928C64.6172 23.841 57.7739 21.0027 50.4832 21C35.4616 21 23.2346 33.2252 23.2292 48.2522C23.2274 53.0557 24.4823 57.7446 26.8668 61.8769L23 76L37.4477 72.2105C41.4282 74.3822 45.9107 75.5262 50.4714 75.528H50.4823C65.5029 75.528 77.7299 63.301 77.7363 48.2749C77.7408 40.9915 74.9089 34.1446 69.7626 28.9928ZM62.9086 53.9588C62.2274 53.6178 58.8799 51.9708 58.2551 51.7435C57.6313 51.5161 57.1766 51.4024 56.7228 52.0845C56.269 52.7666 54.964 54.2998 54.5666 54.7545C54.1692 55.2092 53.7718 55.2656 53.0915 54.9246C52.9802 54.8688 52.8283 54.803 52.6409 54.7217C51.6819 54.3057 49.7905 53.4855 47.6151 51.5443C45.5907 49.7382 44.2239 47.5084 43.8265 46.8272C43.4291 46.1452 43.7837 45.7769 44.1248 45.4376C44.3292 45.2338 44.564 44.9478 44.7987 44.662C44.9157 44.5194 45.0328 44.3768 45.146 44.2445C45.4345 43.9075 45.56 43.6516 45.7302 43.3049C45.7607 43.2427 45.7926 43.1776 45.8272 43.1087C46.0545 42.654 45.9409 42.2565 45.7708 41.9155C45.6572 41.6877 45.0118 40.1167 44.4265 38.6923C44.1355 37.984 43.8594 37.3119 43.671 36.8592C43.1828 35.687 42.6883 35.69 42.2913 35.6924C42.2386 35.6928 42.1876 35.6931 42.1386 35.6906C41.7421 35.6706 41.2874 35.667 40.8336 35.667C40.3798 35.667 39.6423 35.837 39.0175 36.5191C38.9773 36.5631 38.9323 36.6111 38.8834 36.6633C38.1738 37.4209 36.634 39.0648 36.634 42.2002C36.634 45.544 39.062 48.7748 39.4124 49.2411L39.415 49.2444C39.4371 49.274 39.4767 49.3309 39.5333 49.4121C40.3462 50.5782 44.6615 56.7691 51.0481 59.5271C52.6732 60.2291 53.9409 60.6475 54.9303 60.9612C56.5618 61.4796 58.046 61.4068 59.22 61.2313C60.5286 61.0358 63.2487 59.5844 63.8161 57.9938C64.3836 56.4033 64.3836 55.0392 64.2136 54.7554C64.0764 54.5258 63.7545 54.3701 63.2776 54.1395C63.1633 54.0843 63.0401 54.0247 62.9086 53.9588Z"
+                                                      fill="#ffffff"/>
+                                            </svg>
+                                        </a></div>
+                                        <div class="t-sociallinks__item t-sociallinks__item_viber"><a
+                                                href="viber://chat?number=%2B7 (978) 731-12-12" target="_blank"
+                                                rel="nofollow" style="width: 30px; height: 30px;">
+                                            <svg class="t-sociallinks__svg" width=30px height=30px viewBox="0 0 100 100"
+                                                 fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                      d="M50 100c27.614 0 50-22.386 50-50S77.614 0 50 0 0 22.386 0 50s22.386 50 50 50Zm19.546-71.18c-1.304-1.184-6.932-4.72-18.674-4.772 0 0-13.905-.913-20.655 5.2-3.757 3.71-5.022 9.226-5.161 15.957l-.016.691c-.156 6.885-.433 19.013 11.47 22.32l-.053 10.386c0 .587.093.988.428 1.071.241.059.602-.066.91-.372 1.968-1.978 8.271-9.582 8.271-9.582 8.457.553 15.186-1.117 15.91-1.354.17-.054.415-.111.72-.183 2.752-.641 10.37-2.417 11.776-13.773 1.613-13.003-.594-21.88-4.926-25.589ZM48.664 31.51a.908.908 0 0 1 .914-.901c4.585.032 8.468 1.56 11.584 4.597 3.146 3.067 4.696 7.24 4.736 12.404a.908.908 0 1 1-1.815.013c-.037-4.79-1.461-8.458-4.188-11.117-2.757-2.688-6.18-4.053-10.33-4.082a.908.908 0 0 1-.9-.914Zm2.374 2.932a1.15 1.15 0 1 0-.168 2.294c2.918.213 5.067 1.184 6.597 2.854 1.541 1.684 2.304 3.784 2.248 6.389a1.15 1.15 0 0 0 2.3.05c.067-3.133-.87-5.826-2.851-7.992-2.01-2.193-4.758-3.349-8.126-3.595Zm1.156 4.454a.908.908 0 1 0-.095 1.812c1.335.07 2.223.458 2.8 1.054.58.6.964 1.535 1.033 2.936a.908.908 0 0 0 1.813-.09c-.083-1.677-.558-3.09-1.542-4.108-.987-1.021-2.368-1.519-4.009-1.604Zm1.805 15.633c-.594.732-1.698.64-1.698.64-8.066-2.06-10.224-10.23-10.224-10.23s-.097-1.104.638-1.698l1.458-1.158c.722-.557 1.183-1.908.448-3.228a34.125 34.125 0 0 0-1.839-2.881c-.641-.877-2.136-2.671-2.142-2.677-.72-.85-1.78-1.048-2.898-.466a.045.045 0 0 0-.012.003l-.011.003a12.062 12.062 0 0 0-2.986 2.432c-.69.833-1.085 1.65-1.185 2.45a1.57 1.57 0 0 0-.022.357c-.003.354.05.706.16 1.042l.038.026c.348 1.236 1.22 3.296 3.114 6.731a40.117 40.117 0 0 0 3.735 5.654c.703.89 1.456 1.74 2.256 2.543l.029.03.057.056.085.086.086.085.086.086a29.64 29.64 0 0 0 2.543 2.255 40.072 40.072 0 0 0 5.655 3.736c3.433 1.894 5.495 2.766 6.73 3.114l.026.038c.336.11.688.164 1.041.16.12.006.24-.001.358-.022.802-.095 1.618-.49 2.448-1.184a.032.032 0 0 0 .007-.004.101.101 0 0 0 .003-.004l.012-.008a12.09 12.09 0 0 0 2.41-2.97l.003-.01a.054.054 0 0 0 .002-.013c.583-1.117.385-2.177-.47-2.899l-.189-.154c-.484-.4-1.783-1.47-2.487-1.988a34.12 34.12 0 0 0-2.879-1.838c-1.32-.736-2.669-.275-3.228.448L54 54.528Z"
+                                                      fill="#ffffff"/>
+                                            </svg>
+                                        </a></div><!-- /new soclinks --></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script>t_onReady(function () {
+                var rec = document.querySelector('#rec612263841');
+                if (!rec) return;
+                rec.setAttribute('data-animationappear', 'off');
+                rec.style.opacity = 1;
+                t_onFuncLoad('t450_initMenu', function () {
+                    t450_initMenu('612263841');
+                });
+            });</script>
+            <style>#rec612263841 .t-menu__link-item {
+            }
+
+            @supports (overflow:-webkit-marquee) and (justify-content:inherit) {
+                #rec612263841 .t-menu__link-item,
+                #rec612263841 .t-menu__link-item.t-active {
+                    opacity: 1 !important;
+                }
+            }</style>
+        </div>
+    </div><!--/header-->
+    <div id="rec615095046" class="r t-rec" style=" " data-animationappear="off" data-record-type="360"><!-- T360 -->
+        <style>@media screen and (min-width: 980px) {
+            .t-records {
+                opacity: 0;
+            }
+
+            .t-records_animated {
+                -webkit-transition: opacity ease-in-out 2s;
+                -moz-transition: opacity ease-in-out 2s;
+                -o-transition: opacity ease-in-out 2s;
+                transition: opacity ease-in-out 2s;
+            }
+
+            .t-records.t-records_visible,
+            .t-records .t-records {
+                opacity: 1;
+            }
+        }</style>
+        <script>t_onReady(function () {
+            var allRecords = document.querySelector('.t-records');
+            window.addEventListener('pageshow', function (event) {
+                if (event.persisted) {
+                    allRecords.classList.add('t-records_visible');
+                }
+            });
+            var rec = document.querySelector('#rec615095046');
+            if (!rec) return;
+            rec.setAttribute('data-animationappear', 'off');
+            rec.style.opacity = '1';
+            allRecords.classList.add('t-records_animated');
+            setTimeout(function () {
+                allRecords.classList.add('t-records_visible');
+            }, 200);
+        });</script>
+        <script>t_onReady(function () {
+            var selects = 'button:not(.t-submit):not(.t835__btn_next):not(.t835__btn_prev):not(.t835__btn_result):not(.t862__btn_next):not(.t862__btn_prev):not(.t862__btn_result):not(.t854__news-btn):not(.t862__btn_next),' +
+                'a:not([href*="#"]):not(.carousel-control):not(.t-carousel__control):not(.t807__btn_reply):not([href^="#price"]):not([href^="javascript"]):not([href^="mailto"]):not([href^="tel"]):not([href^="link_sub"]):not(.js-feed-btn-show-more):not(.t367__opener):not([href^="https://www.dropbox.com/"])';
+            var elements = document.querySelectorAll(selects);
+            Array.prototype.forEach.call(elements, function (element) {
+                if (element.getAttribute('data-menu-submenu-hook')) return;
+                element.addEventListener('click', function (event) {
+                    var goTo = this.getAttribute('href');
+                    if (goTo !== null) {
+                        var ctrl = event.ctrlKey;
+                        var cmd = event.metaKey && navigator.platform.indexOf('Mac') !== -1;
+                        if (!ctrl && !cmd) {
+                            var target = this.getAttribute('target');
+                            if (target !== '_blank') {
+                                event.preventDefault();
+                                var allRecords = document.querySelector('.t-records');
+                                if (allRecords) {
+                                    allRecords.classList.remove('t-records_visible');
+                                }
+                                setTimeout(function () {
+                                    window.location = goTo;
+                                }, 500);
+                            }
+                        }
+                    }
+                });
+            });
+        });</script>
+        <style>.t360__bar {
+            background-color: #47a76a;
+        }</style>
+        <script>t_onReady(function () {
+            var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+            if (!isSafari) {
+                document.body.insertAdjacentHTML('beforeend', '<div class="t360__progress"><div class="t360__bar"></div></div>');
+                setTimeout(function () {
+                    var bar = document.querySelector('.t360__bar');
+                    if (bar) bar.classList.add('t360__barprogress');
+                }, 10);
+            }
+        });
+        window.addEventListener('load', function () {
+            var bar = document.querySelector('.t360__bar');
+            if (!bar) return;
+            bar.classList.remove('t360__barprogress');
+            bar.classList.add('t360__barprogressfinished');
+            setTimeout(function () {
+                bar.classList.add('t360__barprogresshidden');
+            }, 20);
+            setTimeout(function () {
+                var progress = document.querySelector('.t360__progress');
+                if (progress) progress.style.display = 'none';
+            }, 500);
+        });</script>
+    </div>
+    <div id="rec611908848" class="r t-rec" style=" " data-animationappear="off" data-record-type="204"><!-- cover -->
+        <div class="t-cover"
+             id="recorddiv611908848"
+             bgimgfield="img"
+             style="height:100vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); "
+        >
+            <div class="t-cover__carrier" id="coverCarry611908848" data-content-cover-id="611908848"
+                 data-content-cover-bg="" data-display-changed="true" data-content-cover-height="100vh"
+                 data-content-cover-parallax="fixed" style="height:100vh; " itemscope
+                 itemtype="http://schema.org/ImageObject">
+                <meta itemprop="image" content="">
+            </div>
+            <div class="t-cover__filter"
+                 style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.30));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.30));background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.30));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.30));background-image: linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.30));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#99000000', endColorstr='#b2000000');"></div>
+            <div class="t-container">
+                <div class="t-col t-col_8">
+                    <div class="t-cover__wrapper t-valign_middle" style="height:100vh; position: relative;z-index: 1;">
+                        <div class="t181">
+                            <div data-hook-content="covercontent">
+                                <div class="t181__wrapper">
+                                    <div class="t181__title t-title t-title_md" style="" field="title">
+                                        <div style="font-size:72px;" data-customstyle="yes"><p
+                                                style="text-align: left;"><strong
+                                                style="font-weight: 700; font-family: Kazimir;">Гостевой комплекс
+                                            "Зеленые домики"</strong></p></div>
+                                    </div>
+                                    <div style="margin-top:30px;">
+                                        <div class="t-btnwrapper"><a href="contacts.html" target=""
+                                                                     class="t-btn t-btn_md "
+                                                                     style="color:#000000;background-color:#ffffff;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);">
+                                            <table role="presentation" style="width:100%; height:100%;">
+                                                <tr>
+                                                    <td>Забронировать!</td>
+                                                </tr>
+                                            </table>
+                                        </a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <style>@media (hover), (min-width: 0\0
+        ) {
+            #rec611908848 .t-btn:not(.t-animate_no-hover):hover {
+                background: #47a76a !important;
+                box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.003) !important;
+            }
+
+            #rec611908848 .t-btn:not(.t-animate_no-hover) {
+                -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+                transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+            }
+
+            #rec611908848 .t-btntext:not(.t-animate_no-hover):hover {
+            }
+        }</style>
+    </div>
+    <div id="rec612226098" class="r t-rec" style=" " data-animationappear="off" data-record-type="492"><!-- T492 -->
+        <div class="t492" itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="image" content="images/tild6666-3735-4565-b533-393132613066__dsc_0931.jpg">
+            <div class="t492__blockimgmobile t492__blockimgmobile_padding-0"
+                 style="display:none;background-color:#acd4ba;"><img
+                    src="images/tild6666-3735-4565-b533-393132613066__-__empty__dsc_0931.jpg"
+                    data-original="images/tild6666-3735-4565-b533-393132613066__dsc_0931.jpg"
+                    class="t492__imgmobile t-img"
+                    alt=""></div>
+            <table class="t492__blocktable" style="background-color:#acd4ba;" data-height-correct-vh="yes">
+                <tr>
+                    <td class="t492__blocktext">
+                        <div class="t492__textwrapper">
+                            <div class="t-title t-title_xxs" style="color:#000000;" field="title">О КУРОРТЕ</div>
+                            <div class="t-descr t-descr_md" style="color:#000000;" field="descr">Гостевой комплекс
+                                "Зелёные Домики" расположен всего в 200 метрах от набережной и пляжа Курортного, на
+                                склоне холма, среди сосен и цветочных насаждений. <br/>Гостей порадует вид на поселок,
+                                близость к морю и просторная закрытая территория с уединенными местами для отдыха. Сосны
+                                цветочные клумбы, обилие роз, пруд с рыбками — всё это создаёт ощущение спокойствия и
+                                умиротворения. Есть детская площадка с качелями и песочницей. Мангальная зона, и
+                                уединенные беседки с видом на море.<br/><br/>Номерной фонд представлен комфортабельными
+                                комнатами со всеми удобствами и индивидуальными кухнями в каждом номере. Номера
+                                расположены в небольших домиках на 1, 2 и 3 этажах. Вы можете выбрать одно- или
+                                двухкомнатный номер с балконом и кухней.<br/><br/></div>
+                            <div class="t492__btn-container">
+                                <div class="t492__btn-wrapper"><a href="contacts.html" target="" class="t-btn t-btn_md "
+                                                                  style="color:#ffffff;background-color:#47a76a;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;">
+                                    <table role="presentation" style="width:100%; height:100%;">
+                                        <tr>
+                                            <td>Забронировать</td>
+                                        </tr>
+                                    </table>
+                                </a></div>
+                            </div>
+                        </div>
+                    </td>
+                    <td class="t492__blockimg t-bgimg"
+                        data-original="images/tild6666-3735-4565-b533-393132613066__dsc_0931.jpg"
+                        bgimgfield="img"
+                        style="background-image:url('images/tild6666-3735-4565-b533-393132613066__-__resizeb__20x__dsc_0931.jpg');"
+                    ></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div id="rec614813180" class="r t-rec" style=" " data-animationappear="off" data-record-type="694"><!-- t694 -->
+        <style>#rec614813180 .t694__table {
+            height: 24.75vw;
+        }
+
+        @media screen and (max-width: 768px) {
+            #rec614813180 .t694__table {
+                height: 75vw;
+            }
+        }</style>
+        <div class="t694" data-tile-ratio="0.75">
+            <div class="t694__container t-card__container">
+                <div class="t694__row">
+                    <div class="t694__col t-cell t-cell_33 t-align_center t694__show_hover">
+                        <div class="t694__table">
+                            <div class="t694__cell t-card__col t-align_center t-valign_middle">
+                                <div class="t694__bg t694__animation_fast t-bgimg"
+                                     data-original="images/tild3539-3163-4535-a436-316562326233__dsc_1211.jpg"
+                                     bgimgfield="li_img__1495461413977"
+                                     style="background-image:url('images/tild3539-3163-4535-a436-316562326233__-__resizeb__20x__dsc_1211.jpg');"
+                                     itemscope itemtype="http://schema.org/ImageObject">
+                                    <meta itemprop="image"
+                                          content="images/tild3539-3163-4535-a436-316562326233__dsc_1211.jpg">
+                                </div>
+                                <div class="t694__overlay t694__animation_fast"
+                                     style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60));"></div>
+                                <div class="t694__textwrapper t694__animation_fast t694__textwrapper_animated">
+                                    <div class="t694__textwrapper__content">
+                                        <div class="t694__inner-wrapper">
+                                            <div class="t-card__title t-name t-name_xl" field="li_title__1495461413977"
+                                                 style="">Двухместный номер с кухней
+                                            </div>
+                                            <div class="t-card__descr t-descr t-descr_xs" field="li_text__1495461413977"
+                                                 style="">до 3 человек*, 20 м<sup>2</sup><br/><sup>*дополнительное место
+                                                платно</sup></div>
+                                        </div>
+                                        <div class="t694__button-container">
+                                            <div class="t-card__btn-wrapper"><a href="room1.html" class="t-card__link">
+                                                <div class="t-card__btn t-btn t-btn_sm"
+                                                     style="color:#000000;background-color:#ffffff;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;">
+                                                    Подробнее
+                                                </div>
+                                            </a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="t694__col t-cell t-cell_33 t-align_center t694__show_hover">
+                        <div class="t694__table">
+                            <div class="t694__cell t-card__col t-align_center t-valign_middle">
+                                <div class="t694__bg t694__animation_fast t-bgimg"
+                                     data-original="images/tild3735-3733-4132-b238-633364383334__dsc_1154.jpg"
+                                     bgimgfield="li_img__1495528759247"
+                                     style="background-image:url('images/tild3735-3733-4132-b238-633364383334__-__resizeb__20x__dsc_1154.jpg');"
+                                     itemscope itemtype="http://schema.org/ImageObject">
+                                    <meta itemprop="image"
+                                          content="images/tild3735-3733-4132-b238-633364383334__dsc_1154.jpg">
+                                </div>
+                                <div class="t694__overlay t694__animation_fast"
+                                     style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60));"></div>
+                                <div class="t694__textwrapper t694__animation_fast t694__textwrapper_animated">
+                                    <div class="t694__textwrapper__content">
+                                        <div class="t694__inner-wrapper">
+                                            <div class="t-card__title t-name t-name_xl" field="li_title__1495528759247"
+                                                 style="">Четырехместный номер с кухней
+                                            </div>
+                                            <div class="t-card__descr t-descr t-descr_xs" field="li_text__1495528759247"
+                                                 style="">до 5 человек*, 42&nbsp;м<sup>2</sup><br/>*дополнительное место
+                                                платно
+                                            </div>
+                                        </div>
+                                        <div class="t694__button-container">
+                                            <div class="t-card__btn-wrapper"><a href="room2.html" class="t-card__link">
+                                                <div class="t-card__btn t-btn t-btn_sm"
+                                                     style="color:#000000;background-color:#ffffff;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;">
+                                                    Подробнее
+                                                </div>
+                                            </a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="t694__col t-cell t-cell_33 t-align_center t694__show_hover">
+                        <div class="t694__table">
+                            <div class="t694__cell t-card__col t-align_center t-valign_middle">
+                                <div class="t694__bg t694__animation_fast t-bgimg"
+                                     data-original="images/tild6633-6665-4466-b631-633066613331__dsc_1188.jpg"
+                                     bgimgfield="li_img__1688400796690"
+                                     style="background-image:url('images/tild6633-6665-4466-b631-633066613331__-__resizeb__20x__dsc_1188.jpg');"
+                                     itemscope itemtype="http://schema.org/ImageObject">
+                                    <meta itemprop="image"
+                                          content="images/tild6633-6665-4466-b631-633066613331__dsc_1188.jpg">
+                                </div>
+                                <div class="t694__overlay t694__animation_fast"
+                                     style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60));"></div>
+                                <div class="t694__textwrapper t694__animation_fast t694__textwrapper_animated">
+                                    <div class="t694__textwrapper__content">
+                                        <div class="t694__inner-wrapper">
+                                            <div class="t-card__title t-name t-name_xl" field="li_title__1688400796690"
+                                                 style="">Двухкомнатный номер с кухней
+                                            </div>
+                                            <div class="t-card__descr t-descr t-descr_xs" field="li_text__1688400796690"
+                                                 style="">до 5 человек*, 42&nbsp;м<sup>2</sup><br/>*дополнительное место
+                                                платно
+                                            </div>
+                                        </div>
+                                        <div class="t694__button-container">
+                                            <div class="t-card__btn-wrapper"><a href="room3.html" class="t-card__link">
+                                                <div class="t-card__btn t-btn t-btn_sm"
+                                                     style="color:#000000;background-color:#ffffff;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;">
+                                                    Подробнее
+                                                </div>
+                                            </a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>t_onReady(function () {
+            t_onFuncLoad('t694_init', function () {
+                t694_init('614813180');
+            });
+        });</script>
+    </div>
+    <div id="rec611983800" class="r t-rec t-rec_pt_30 t-rec_pb_60"
+         style="padding-top:30px;padding-bottom:60px;background-color:#acd4ba; " data-record-type="497"
+         data-bg-color="#acd4ba"><!-- t497 -->
+        <div class="t497">
+            <div class="t-section__container t-container">
+                <div class="t-col t-col_12">
+                    <div class="t-section__topwrapper t-align_center">
+                        <div class="t-section__title t-title t-title_xs" field="btitle">Удобства</div>
+                        <div class="t-section__descr t-descr t-descr_xl t-margin_auto" field="bdescr">Мы хотим, чтобы
+                            каждый мог почувствовать себя свободным в нашем комплексе
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <ul role="list" class="t497__container t-container">
+                <li class="t497__col t-col t-col_5 t-prefix_1 t497__col_first t-item t-list__item"
+                    style="margin-top:45px;">
+                    <div class="t497__item">
+                        <div class="t-cell t-valign_top">
+                            <div class="t497__imgwrapper" style="width:70px;"><img class="t497__img t-img"
+                                                                                   src="images/tild3139-6462-4232-a465-333937396635__-__empty__artboard1.png"
+                                                                                   data-original="images/tild3139-6462-4232-a465-333937396635__artboard1.png"
+                                                                                   imgfield="li_img__1476973323713"
+                                                                                   alt=""></div>
+                        </div>
+                        <div class="t497__textwrapper t-cell t-valign_top">
+                            <div class="t497__name t-name t-name_lg" field="li_title__1476973323713" style="">
+                                Круглосуточная регистрация
+                            </div>
+                            <div class="t497__descr t-descr t-descr_xs" field="li_descr__1476973323713" style="">
+                                <div style="font-size: 18px;" data-customstyle="yes">Заявка по телефону или на e-mail в
+                                    любое время, предоплата за 2 суток проживания.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="t497__col t-col t-col_5 t-item t-list__item"
+                    style="margin-top:45px;">
+                    <div class="t497__item">
+                        <div class="t-cell t-valign_top">
+                            <div class="t497__imgwrapper" style="width:70px;"><img class="t497__img t-img"
+                                                                                   src="images/tild6236-3337-4138-b764-666636356631__-__empty__artboard1copy7.png"
+                                                                                   data-original="images/tild6236-3337-4138-b764-666636356631__artboard1copy7.png"
+                                                                                   imgfield="li_img__1476973326928"
+                                                                                   alt=""></div>
+                        </div>
+                        <div class="t497__textwrapper t-cell t-valign_top">
+                            <div class="t497__name t-name t-name_lg" field="li_title__1476973326928" style="">Столовая в
+                                отеле
+                            </div>
+                            <div class="t497__descr t-descr t-descr_xs" field="li_descr__1476973326928" style="">
+                                <div style="font-size:18px;" data-customstyle="yes">Есть возможность заказать завтрак,
+                                    обед и ужин.<br/><br/></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="t497__col t-col t-col_5 t-prefix_1 t-item t-list__item"
+                    style="margin-top:45px;">
+                    <div class="t497__item">
+                        <div class="t-cell t-valign_top">
+                            <div class="t497__imgwrapper" style="width:70px;"><img class="t497__img t-img"
+                                                                                   src="images/tild3136-6337-4230-b266-303164666130__-__empty__artboard1copy.png"
+                                                                                   data-original="images/tild3136-6337-4230-b266-303164666130__artboard1copy.png"
+                                                                                   imgfield="li_img__1476973352758"
+                                                                                   alt=""></div>
+                        </div>
+                        <div class="t497__textwrapper t-cell t-valign_top">
+                            <div class="t497__name t-name t-name_lg" field="li_title__1476973352758" style="">Wi-fi на
+                                всей территории<br/></div>
+                            <div class="t497__descr t-descr t-descr_xs" field="li_descr__1476973352758" style="">
+                                <div style="font-size:18px;" data-customstyle="yes">Бесплатный скоростной интернет
+                                    доступен на территории всего комплекса и летней террасе.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="t497__col t-col t-col_5 t-item t-list__item"
+                    style="margin-top:45px;">
+                    <div class="t497__item">
+                        <div class="t-cell t-valign_top">
+                            <div class="t497__imgwrapper" style="width:70px;"><img class="t497__img t-img"
+                                                                                   src="images/tild3265-6238-4661-a333-326638336537__-__empty__artboard1copy4.png"
+                                                                                   data-original="images/tild3265-6238-4661-a333-326638336537__artboard1copy4.png"
+                                                                                   imgfield="li_img__1476973363863"
+                                                                                   alt=""></div>
+                        </div>
+                        <div class="t497__textwrapper t-cell t-valign_top">
+                            <div class="t497__name t-name t-name_lg" field="li_title__1476973363863" style="">Охраняемая
+                                парковка
+                            </div>
+                            <div class="t497__descr t-descr t-descr_xs" field="li_descr__1476973363863" style="">
+                                <div style="font-size: 18px;" data-customstyle="yes">Для путешествующих на своем
+                                    автотранспорте имеется автостоянка.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="t497__col t-col t-col_5 t-prefix_1 t-item t-list__item"
+                    style="margin-top:45px;">
+                    <div class="t497__item">
+                        <div class="t-cell t-valign_top">
+                            <div class="t497__imgwrapper" style="width:70px;"><img class="t497__img t-img"
+                                                                                   src="images/tild3633-6635-4164-a333-623634303934__-__empty__artboard1copy2.png"
+                                                                                   data-original="images/tild3633-6635-4164-a333-623634303934__artboard1copy2.png"
+                                                                                   imgfield="li_img__1476973375188"
+                                                                                   alt=""></div>
+                        </div>
+                        <div class="t497__textwrapper t-cell t-valign_top">
+                            <div class="t497__name t-name t-name_lg" field="li_title__1476973375188" style="">Детская
+                                площадка
+                            </div>
+                            <div class="t497__descr t-descr t-descr_xs" field="li_descr__1476973375188" style="">
+                                <div style="font-size:18px;" data-customstyle="yes">Для самых маленьких гостей
+                                    пансионата есть детская площадка с песочницей и качелями, игровым домиком и
+                                    маленькой горкой. Для детей старшего возраста – теннисный стол.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="t497__col t-col t-col_5 t-item t-list__item"
+                    style="margin-top:45px;">
+                    <div class="t497__item">
+                        <div class="t-cell t-valign_top">
+                            <div class="t497__imgwrapper" style="width:70px;"><img class="t497__img t-img"
+                                                                                   src="images/tild3162-3937-4764-b232-376637633437__-__empty__artboard1copy3.png"
+                                                                                   data-original="images/tild3162-3937-4764-b232-376637633437__artboard1copy3.png"
+                                                                                   imgfield="li_img__1476973386547"
+                                                                                   alt=""></div>
+                        </div>
+                        <div class="t497__textwrapper t-cell t-valign_top">
+                            <div class="t497__name t-name t-name_lg" field="li_title__1476973386547" style="">Удобное
+                                месторасположение<br/></div>
+                            <div class="t497__descr t-descr t-descr_xs" field="li_descr__1476973386547" style="">
+                                <div style="font-size:18px;" data-customstyle="yes">Расстояние до моря – 200 м. Пляж –
+                                    мелкогалечный, общекурортный.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="t497__col t-col t-col_5 t-prefix_1 t-item t-list__item"
+                    style="margin-top:45px;">
+                    <div class="t497__item">
+                        <div class="t-cell t-valign_top">
+                            <div class="t497__imgwrapper" style="width:70px;"><img class="t497__img t-img"
+                                                                                   src="images/lib__tildaicon__34653434-3139-4162-a336-383333643632__34vet_hotel.svg"
+                                                                                   imgfield="li_img__1688403464475"
+                                                                                   alt=""></div>
+                        </div>
+                        <div class="t497__textwrapper t-cell t-valign_top">
+                            <div class="t497__name t-name t-name_lg" field="li_title__1688403464475" style="">Животные
+                            </div>
+                            <div class="t497__descr t-descr t-descr_xs" field="li_descr__1688403464475" style="">
+                                <div style="font-size:18px;" data-customstyle="yes">Проживание с животными возможен по
+                                    согласованию.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="t497__col t-col t-col_5 t-item t-list__item"
+                    style="margin-top:45px;">
+                    <div class="t497__item">
+                        <div class="t-cell t-valign_top">
+                            <div class="t497__imgwrapper" style="width:70px;"><img class="t497__img t-img"
+                                                                                   src="images/lib__tildaicon__66316230-3331-4230-b336-663639636662__kids.svg"
+                                                                                   imgfield="li_img__1688403515923"
+                                                                                   alt=""></div>
+                        </div>
+                        <div class="t497__textwrapper t-cell t-valign_top">
+                            <div class="t497__name t-name t-name_lg" field="li_title__1688403515923" style="">Дети
+                                любого возраста
+                            </div>
+                            <div class="t497__descr t-descr t-descr_xs" field="li_descr__1688403515923" style="">
+                                <div style="font-size:18px;" data-customstyle="yes">Гостиничный комплекс подходит даже
+                                    для самых маленьких.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div id="rec612241757" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; "
+         data-animationappear="off" data-record-type="552"><!-- t552-->
+        <div class="t552">
+            <div class="t552__container t-container_100">
+                <div class="t552__tile t552__tile_25" itemscope itemtype="http://schema.org/ImageObject">
+                    <div class="t552__blockimg t552__blockimg_animated t-bgimg"
+                         data-original="images/tild6263-3964-4365-b533-643837616462__cpdavnjdqvk.jpg"
+                         bgimgfield="gi_img__0" data-zoom-target="0" data-zoomable="yes"
+                         data-img-zoom-url="images/tild6263-3964-4365-b533-643837616462__cpdavnjdqvk.jpg"
+                         style="background: url('images/tild6263-3964-4365-b533-643837616462__-__resizeb__20x__cpdavnjdqvk.jpg') center center no-repeat; background-size:cover; height:18.75vw;"
+                    >
+                        <meta itemprop="image" content="images/tild6263-3964-4365-b533-643837616462__cpdavnjdqvk.jpg">
+                    </div>
+                </div>
+                <div class="t552__tile t552__tile_25" itemscope itemtype="http://schema.org/ImageObject">
+                    <div class="t552__blockimg t552__blockimg_animated t-bgimg"
+                         data-original="images/tild3431-3161-4363-a661-386333326631__dsc_0925.jpg"
+                         bgimgfield="gi_img__1" data-zoom-target="1" data-zoomable="yes"
+                         data-img-zoom-url="images/tild3431-3161-4363-a661-386333326631__dsc_0925.jpg"
+                         style="background: url('images/tild3431-3161-4363-a661-386333326631__-__resizeb__20x__dsc_0925.jpg') center center no-repeat; background-size:cover; height:18.75vw;"
+                    >
+                        <meta itemprop="image" content="images/tild3431-3161-4363-a661-386333326631__dsc_0925.jpg">
+                    </div>
+                </div>
+                <div class="t552__tile t552__tile_25" itemscope itemtype="http://schema.org/ImageObject">
+                    <div class="t552__blockimg t552__blockimg_animated t-bgimg"
+                         data-original="images/tild6137-3866-4366-a465-613564306565__dsc_0926.jpg"
+                         bgimgfield="gi_img__2" data-zoom-target="2" data-zoomable="yes"
+                         data-img-zoom-url="images/tild6137-3866-4366-a465-613564306565__dsc_0926.jpg"
+                         style="background: url('images/tild6137-3866-4366-a465-613564306565__-__resizeb__20x__dsc_0926.jpg') center center no-repeat; background-size:cover; height:18.75vw;"
+                    >
+                        <meta itemprop="image" content="images/tild6137-3866-4366-a465-613564306565__dsc_0926.jpg">
+                    </div>
+                </div>
+                <div class="t552__tile t552__tile_25" itemscope itemtype="http://schema.org/ImageObject">
+                    <div class="t552__blockimg t552__blockimg_animated t-bgimg"
+                         data-original="images/tild6262-6164-4636-a330-613163366435__dsc_0931.jpg"
+                         bgimgfield="gi_img__3" data-zoom-target="3" data-zoomable="yes"
+                         data-img-zoom-url="images/tild6262-6164-4636-a330-613163366435__dsc_0931.jpg"
+                         style="background: url('images/tild6262-6164-4636-a330-613163366435__-__resizeb__20x__dsc_0931.jpg') center center no-repeat; background-size:cover; height:18.75vw;"
+                    >
+                        <meta itemprop="image" content="images/tild6262-6164-4636-a330-613163366435__dsc_0931.jpg">
+                    </div>
+                </div>
+                <div class="t552__tile t552__tile_25" itemscope itemtype="http://schema.org/ImageObject">
+                    <div class="t552__blockimg t552__blockimg_animated t-bgimg"
+                         data-original="images/tild6230-3834-4330-b031-633633613131__dsc_0932.jpg"
+                         bgimgfield="gi_img__4" data-zoom-target="4" data-zoomable="yes"
+                         data-img-zoom-url="images/tild6230-3834-4330-b031-633633613131__dsc_0932.jpg"
+                         style="background: url('images/tild6230-3834-4330-b031-633633613131__-__resizeb__20x__dsc_0932.jpg') center center no-repeat; background-size:cover; height:18.75vw;"
+                    >
+                        <meta itemprop="image" content="images/tild6230-3834-4330-b031-633633613131__dsc_0932.jpg">
+                    </div>
+                </div>
+                <div class="t552__tile t552__tile_25" itemscope itemtype="http://schema.org/ImageObject">
+                    <div class="t552__blockimg t552__blockimg_animated t-bgimg"
+                         data-original="images/tild3265-6230-4163-a231-616462323334__dsc_0933.jpg"
+                         bgimgfield="gi_img__5" data-zoom-target="5" data-zoomable="yes"
+                         data-img-zoom-url="images/tild3265-6230-4163-a231-616462323334__dsc_0933.jpg"
+                         style="background: url('images/tild3265-6230-4163-a231-616462323334__-__resizeb__20x__dsc_0933.jpg') center center no-repeat; background-size:cover; height:18.75vw;"
+                    >
+                        <meta itemprop="image" content="images/tild3265-6230-4163-a231-616462323334__dsc_0933.jpg">
+                    </div>
+                </div>
+                <div class="t552__tile t552__tile_25" itemscope itemtype="http://schema.org/ImageObject">
+                    <div class="t552__blockimg t552__blockimg_animated t-bgimg"
+                         data-original="images/tild3964-3037-4765-b536-616638326463__dsc_0934.jpg"
+                         bgimgfield="gi_img__6" data-zoom-target="6" data-zoomable="yes"
+                         data-img-zoom-url="images/tild3964-3037-4765-b536-616638326463__dsc_0934.jpg"
+                         style="background: url('images/tild3964-3037-4765-b536-616638326463__-__resizeb__20x__dsc_0934.jpg') center center no-repeat; background-size:cover; height:18.75vw;"
+                    >
+                        <meta itemprop="image" content="images/tild3964-3037-4765-b536-616638326463__dsc_0934.jpg">
+                    </div>
+                </div>
+                <div class="t552__tile t552__tile_25" itemscope itemtype="http://schema.org/ImageObject">
+                    <div class="t552__blockimg t552__blockimg_animated t-bgimg"
+                         data-original="images/tild6135-3434-4562-b530-643132363263__dsc_0935.jpg"
+                         bgimgfield="gi_img__7" data-zoom-target="7" data-zoomable="yes"
+                         data-img-zoom-url="images/tild6135-3434-4562-b530-643132363263__dsc_0935.jpg"
+                         style="background: url('images/tild6135-3434-4562-b530-643132363263__-__resizeb__20x__dsc_0935.jpg') center center no-repeat; background-size:cover; height:18.75vw;"
+                    >
+                        <meta itemprop="image" content="images/tild6135-3434-4562-b530-643132363263__dsc_0935.jpg">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>t_onReady(function () {
+            t_onFuncLoad('t552_init', function () {
+                t552_init('612241757', '0.75');
+            });
+        });</script>
+    </div>
+    <div id="rec612235302" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; "
+         data-animationappear="off" data-record-type="554"><!-- T554 -->
+        <div class="t554" data-display-changed="true">
+            <div class="t554__general-wrapper t554__general-wrapper_padding t-width t-width_100 t-margin_auto">
+                <div class="t554__card-wrapper">
+                    <div class="t554__card t-width_5 t-align_left" style=" top:120px;">
+                        <div class="t554__title t-heading t-heading_sm" style="" field="title">Свяжитесь с нами</div>
+                        <div class="t-text t-descr_sm" style="" field="text"><a href="tel:+79787311212">+7 (978)
+                            731-12-12</a> Светлана<br/>Курортное, ул. Курортная, 1 М
+                        </div>
+                        <div class="t-sociallinks">
+                            <div class="t-sociallinks__wrapper"><!-- new soclinks -->
+                                <div class="t-sociallinks__item t-sociallinks__item_whatsapp"><a
+                                        href="https://wa.me/79787311212?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7"
+                                        target="_blank" rel="nofollow" style="width: 25px; height: 25px;">
+                                    <svg class="t-sociallinks__svg" width=25px height=25px viewBox="0 0 100 100"
+                                         fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                              d="M50.168 10C60.8239 10.004 70.8257 14.1522 78.346 21.6819C85.8676 29.2114 90.0066 39.2185 90 49.8636C89.9906 71.8252 72.1203 89.6956 50.1668 89.6956H50.1508C43.4852 89.6929 36.9338 88.0208 31.1162 84.8468L10 90.3853L15.6516 69.7437C12.1665 63.7042 10.3323 56.851 10.3349 49.8304C10.343 27.8676 28.2134 10 50.168 10V10ZM61.5376 54.7631C62.4507 55.0954 67.3433 57.5023 68.3389 58.0009C68.5313 58.0971 68.7113 58.1842 68.8784 58.265C69.5753 58.602 70.0458 58.8296 70.2462 59.1651C70.4947 59.5799 70.4947 61.5736 69.6654 63.8982C68.8359 66.2229 64.8605 68.3442 62.9478 68.63C61.2319 68.8865 59.0627 68.9928 56.6782 68.2353C55.2322 67.7767 53.3794 67.1653 51.0041 66.1392C41.6698 62.1082 35.3628 53.06 34.1747 51.3556C34.0919 51.2368 34.0341 51.1538 34.0017 51.1106L33.9981 51.1056C33.486 50.4243 29.9372 45.7022 29.9372 40.8149C29.9372 36.2325 32.1873 33.8303 33.2244 32.7232C33.2961 32.6467 33.3619 32.5763 33.4208 32.5118C34.3341 31.5149 35.412 31.2664 36.0751 31.2664C36.7385 31.2664 37.4029 31.2717 37.9826 31.301C38.0541 31.3046 38.1286 31.304 38.2056 31.3037C38.786 31.3001 39.5087 31.2957 40.2221 33.0089C40.4976 33.6707 40.9012 34.653 41.3265 35.6882C42.1818 37.7702 43.1251 40.066 43.2912 40.399C43.5397 40.8974 43.7058 41.4782 43.3736 42.1427C43.323 42.2436 43.2763 42.3387 43.2318 42.4295C42.9831 42.9364 42.7995 43.3104 42.378 43.8029C42.2125 43.9963 42.0413 44.2045 41.8703 44.4131C41.5273 44.8309 41.1842 45.2488 40.8853 45.5467C40.387 46.0425 39.8686 46.5808 40.4493 47.5777C41.0303 48.5731 43.028 51.8323 45.9867 54.472C49.1661 57.3091 51.93 58.5078 53.3318 59.1157C53.6058 59.2346 53.8279 59.3308 53.9907 59.4124C54.9849 59.9109 55.5658 59.8284 56.1465 59.1637C56.7274 58.4993 58.6347 56.2583 59.298 55.2615C59.9612 54.2646 60.6259 54.4307 61.5376 54.7631V54.7631Z"
+                                              fill="#000000"/>
+                                    </svg>
+                                </a></div>
+                                <div class="t-sociallinks__item t-sociallinks__item_viber"><a
+                                        href="viber://chat?number=%2B79787311212" target="_blank" rel="nofollow"
+                                        style="width: 25px; height: 25px;">
+                                    <svg class="t-sociallinks__svg" width=25px height=25px viewBox="0 0 100 100"
+                                         fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                              d="M51.1674 15.0695C68.0367 15.1431 76.1216 20.223 77.9946 21.9248C84.2184 27.2536 87.3892 40.0049 85.0706 58.6857C83.0511 74.9991 72.1076 77.5505 68.1547 78.4721C67.7162 78.5744 67.3637 78.6565 67.119 78.7352C66.0794 79.075 56.4132 81.4739 44.2639 80.6805C44.2639 80.6805 35.2092 91.6043 32.3809 94.4446C31.9394 94.8848 31.4203 95.0641 31.0738 94.9798C30.5921 94.8607 30.4583 94.2841 30.4583 93.4412C30.4664 92.2358 30.5359 78.5212 30.5359 78.5212C13.4356 73.7704 13.8327 56.3465 14.0581 46.4559C14.0658 46.1159 14.0734 45.7848 14.08 45.4635C14.2793 35.7933 16.0975 27.869 21.4945 22.5402C31.1915 13.757 51.1674 15.0695 51.1674 15.0695ZM49.3088 24.4928C48.5887 24.4878 48.001 25.0674 47.996 25.7874C47.991 26.5075 48.5706 27.0952 49.2906 27.1002C55.2525 27.1418 60.169 29.1034 64.1298 32.9646C68.0476 36.7839 70.0936 42.0538 70.1459 48.9357C70.1514 49.6557 70.7395 50.235 71.4596 50.2295C72.1796 50.224 72.7588 49.6359 72.7533 48.9159C72.6969 41.4967 70.4696 35.5035 65.9499 31.0975C61.4732 26.7334 55.8962 24.5387 49.3088 24.4928ZM49.6375 31.5265C49.7041 30.6166 50.4958 29.9329 51.4058 29.9995C56.2447 30.3536 60.1933 32.0139 63.0793 35.1642L63.0799 35.1649C65.9271 38.276 67.272 42.1448 67.1746 46.6444C67.1549 47.5566 66.3994 48.2801 65.4872 48.2604C64.575 48.2406 63.8515 47.4851 63.8712 46.5729C63.9522 42.8311 62.8559 39.8143 60.6424 37.3956C58.4445 34.9967 55.356 33.6016 51.1646 33.2948C50.2546 33.2282 49.5709 32.4365 49.6375 31.5265ZM51.6968 37.6317C51.7344 36.9127 52.3477 36.3602 53.0667 36.3977C55.4237 36.5206 57.4077 37.2357 58.8266 38.7028C60.2394 40.1635 60.9217 42.1942 61.0412 44.6041C61.0769 45.3232 60.5228 45.9352 59.8037 45.9708C59.0845 46.0065 58.4726 45.4524 58.4369 44.7333C58.3371 42.7201 57.7863 41.3778 56.9523 40.5155C56.1245 39.6596 54.848 39.1017 52.9309 39.0016C52.2118 38.9641 51.6593 38.3508 51.6968 37.6317ZM53.2206 59.7748C53.2206 59.7748 54.806 59.9086 55.6595 58.857L57.3239 56.7632C58.1266 55.725 60.0638 55.0628 61.961 56.1197C63.3826 56.9305 64.7628 57.8119 66.0963 58.7607C67.1087 59.5052 68.974 61.042 69.6701 61.6156C69.8397 61.7553 69.9398 61.8378 69.9414 61.8378C71.1696 62.8747 71.4532 64.3972 70.617 66.0026C70.617 66.0075 70.6152 66.0142 70.6135 66.0206C70.6119 66.0265 70.6104 66.0322 70.6104 66.0361C69.6894 67.6326 68.5202 69.0723 67.1466 70.3013C67.1382 70.3054 67.1342 70.3096 67.1302 70.3138C67.1265 70.3177 67.1229 70.3215 67.1158 70.3253C65.9224 71.3225 64.75 71.8893 63.5985 72.0258C63.429 72.0555 63.2567 72.0662 63.0848 72.0579C62.577 72.0628 62.0718 71.9851 61.589 71.8278L61.5516 71.7729C59.7775 71.2726 56.8155 70.0203 51.8827 67.2991C49.0282 65.7429 46.3106 63.9477 43.7591 61.9328C42.4802 60.9235 41.2603 59.8416 40.1053 58.6925L39.9823 58.5694L39.8592 58.4463L39.7361 58.3232C39.7085 58.2965 39.6815 58.2692 39.6543 58.2417L39.613 58.2001C38.4639 57.0452 37.382 55.8253 36.3726 54.5464C34.3581 51.9951 32.5629 49.278 31.0064 46.4241C28.2852 41.49 27.0329 38.5306 26.5325 36.7539L26.4777 36.7164C26.3208 36.2336 26.2436 35.7284 26.2489 35.2207C26.2395 35.0488 26.2499 34.8765 26.2797 34.7069C26.4233 33.5573 26.991 32.3839 27.9828 31.187C27.9866 31.1799 27.9905 31.1763 27.9943 31.1726C27.9985 31.1686 28.0027 31.1646 28.0069 31.1562C29.2355 29.7826 30.6753 28.6138 32.272 27.6938C32.2759 27.6938 32.2816 27.6919 32.2875 27.69C32.294 27.6879 32.3006 27.6857 32.3055 27.6857C33.9109 26.8496 35.4335 27.1332 36.469 28.3547C36.477 28.3627 38.6243 30.9408 39.5461 32.1998C40.495 33.5346 41.3764 34.9161 42.1871 36.3392C43.244 38.2349 42.5818 40.1762 41.5436 40.9762L39.4498 42.6406C38.3928 43.4941 38.532 45.0795 38.532 45.0795C38.532 45.0795 41.6332 56.8168 53.2206 59.7748Z"
+                                              fill="#000000"/>
+                                    </svg>
+                                </a></div>
+                                <div class="t-sociallinks__item t-sociallinks__item_phone"><a href="tel:+79787311212"
+                                                                                              target="_blank"
+                                                                                              rel="nofollow"
+                                                                                              style="width: 25px; height: 25px;">
+                                    <svg class="t-sociallinks__svg" width=25px height=25px viewBox="0 0 100 100"
+                                         fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M79.6737 54.027C78.7931 54.027 77.8726 53.7468 76.992 53.5467C75.2103 53.1483 73.4583 52.6267 71.7488 51.9858C69.892 51.3103 67.851 51.3453 66.0185 52.0842C64.186 52.8231 62.6916 54.2137 61.8227 55.9882L60.9422 57.8293C57.0551 55.6248 53.4641 52.9349 50.2556 49.8244C47.1451 46.616 44.4552 43.025 42.2507 39.1379L44.0918 38.2974C45.8664 37.4285 47.2569 35.934 47.9958 34.1016C48.7347 32.2691 48.7698 30.2281 48.0943 28.3713C47.4587 26.6463 46.9372 24.8814 46.5333 23.088C46.3332 22.2075 46.1731 21.2869 46.053 20.4064C45.567 17.5871 44.0903 15.0341 41.889 13.2069C39.6876 11.3798 36.9062 10.3987 34.0457 10.4403H21.9983C20.3062 10.4381 18.6328 10.7935 17.0877 11.4832C15.5427 12.173 14.1608 13.1815 13.0328 14.4427C11.8814 15.7381 11.024 17.2675 10.5197 18.9256C10.0153 20.5838 9.87588 22.3315 10.111 24.0486C12.2867 40.7074 19.8978 56.183 31.7643 68.0756C43.657 79.9421 59.1325 87.5532 75.7913 89.7289C76.3109 89.7686 76.8327 89.7686 77.3522 89.7289C80.3037 89.7332 83.1534 88.6504 85.3572 86.6871C86.6183 85.559 87.6269 84.1772 88.3166 82.6321C89.0064 81.087 89.3618 79.4136 89.3596 77.7216V65.7142C89.338 62.9486 88.3624 60.2753 86.5977 58.1459C84.8329 56.0165 82.3871 54.5616 79.6737 54.027ZM81.6349 78.0417C81.6336 78.6003 81.5154 79.1523 81.2879 79.6624C81.0604 80.1725 80.7287 80.6294 80.3141 81.0036C79.8754 81.4032 79.3534 81.7003 78.7857 81.8734C78.2181 82.0465 77.6191 82.0911 77.032 82.0042C62.096 80.0535 48.2154 73.2468 37.5278 62.6323C26.8311 51.9356 19.9652 38.0067 17.9958 23.008C17.9089 22.421 17.9535 21.8219 18.1266 21.2543C18.2997 20.6867 18.5968 20.1646 18.9964 19.726C19.3752 19.3063 19.8385 18.9716 20.3559 18.744C20.8733 18.5163 21.433 18.4009 21.9983 18.4052H34.0057C34.9309 18.3825 35.8353 18.6813 36.5651 19.2505C37.2948 19.8197 37.8048 20.6242 38.0081 21.5271C38.0081 22.6077 38.3683 23.7284 38.6085 24.8091C39.0711 26.9058 39.6864 28.9659 40.4496 30.9729L34.8462 33.6145C33.883 34.0566 33.1346 34.8627 32.7649 35.8559C32.3646 36.8303 32.3646 37.9233 32.7649 38.8977C38.5252 51.2363 48.4435 61.1546 60.7821 66.9149C61.7565 67.3152 62.8495 67.3152 63.8239 66.9149C64.8171 66.5453 65.6232 65.7968 66.0653 64.8336L68.5869 59.2302C70.6518 59.9832 72.7644 60.5982 74.9107 61.0713C75.9514 61.3115 77.0721 61.5116 78.1527 61.6717C79.0556 61.875 79.8601 62.385 80.4293 63.1147C80.9985 63.8445 81.2973 64.7489 81.2746 65.6742L81.6349 78.0417ZM58.0204 10C57.0998 10 56.1392 10 55.2187 10C54.1571 10.0902 53.175 10.5984 52.4881 11.4129C51.8013 12.2273 51.4662 13.2811 51.5564 14.3427C51.6466 15.4042 52.1549 16.3864 52.9693 17.0732C53.7837 17.76 54.8376 18.0951 55.8991 18.0049H58.0204C64.3895 18.0049 70.4977 20.535 75.0014 25.0387C79.505 29.5423 82.0351 35.6505 82.0351 42.0196C82.0351 42.7401 82.0351 43.4205 82.0351 44.1409C81.9464 45.1968 82.28 46.2448 82.9627 47.0551C83.6455 47.8655 84.6217 48.372 85.6774 48.4636H85.9975C86.9995 48.4677 87.9665 48.0958 88.7076 47.4214C89.4487 46.747 89.9098 45.8193 90 44.8214C90 43.9008 90 42.9402 90 42.0196C90 33.5344 86.632 25.3962 80.6358 19.3925C74.6396 13.3888 66.5056 10.0106 58.0204 10V10ZM66.0253 42.0196C66.0253 43.0812 66.447 44.0992 67.1976 44.8498C67.9482 45.6004 68.9662 46.0221 70.0278 46.0221C71.0893 46.0221 72.1073 45.6004 72.8579 44.8498C73.6085 44.0992 74.0302 43.0812 74.0302 42.0196C74.0302 37.7736 72.3435 33.7014 69.341 30.699C66.3386 27.6966 62.2665 26.0098 58.0204 26.0098C56.9589 26.0098 55.9408 26.4315 55.1902 27.1821C54.4396 27.9327 54.0179 28.9508 54.0179 30.0123C54.0179 31.0738 54.4396 32.0918 55.1902 32.8424C55.9408 33.593 56.9589 34.0147 58.0204 34.0147C60.1434 34.0147 62.1795 34.8581 63.6807 36.3593C65.1819 37.8605 66.0253 39.8966 66.0253 42.0196Z"
+                                              fill="#000000"/>
+                                    </svg>
+                                </a></div>
+                                <div class="t-sociallinks__item t-sociallinks__item_telegram"><a target="_blank"
+                                                                                                 rel="nofollow"
+                                                                                                 style="width: 25px; height: 25px;">
+                                    <svg class="t-sociallinks__svg" width=25px height=25px viewBox="0 0 100 100"
+                                         fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M83.1797 17.5886C83.1797 17.5886 90.5802 14.7028 89.9635 21.711C89.758 24.5968 87.9079 34.6968 86.4688 45.6214L81.5351 77.9827C81.5351 77.9827 81.124 82.7235 77.4237 83.548C73.7233 84.3724 68.173 80.6623 67.145 79.8378C66.3227 79.2195 51.7273 69.9438 46.5878 65.4092C45.1488 64.1724 43.5042 61.6989 46.7934 58.8132L68.3785 38.201C70.8454 35.7274 73.3122 29.956 63.0336 36.9642L34.2535 56.5459C34.2535 56.5459 30.9644 58.6071 24.7973 56.752L11.4351 52.6295C11.4351 52.6295 6.50135 49.5377 14.9298 46.4457C35.4871 36.7579 60.7724 26.864 83.1797 17.5886Z"
+                                              fill="#000000"/>
+                                    </svg>
+                                </a></div>
+                                <div class="t-sociallinks__item t-sociallinks__item_vkmessenger"><a
+                                        href="https://vk.com/zel.domiki" target="_blank" rel="nofollow"
+                                        style="width: 25px; height: 25px;">
+                                    <svg class="t-sociallinks__svg" width=25px height=25px viewBox="0 0 100 100"
+                                         fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                              d="M45.065 10.238c-.473.116-1.904.392-3.18.614-2.71.472-6.429 1.712-9.206 3.07-2.552 1.248-3.36 1.726-6.868 4.06-.84.559-6.632 6.273-7.725 7.62-.958 1.182-2.813 4.174-3.871 6.246-2.954 5.783-4.232 11.31-4.215 18.22.02 7.85 1.897 14.64 5.814 21.032 1.014 1.655 1.026 1.45-.443 8.143-1.07 4.875-1.138 5.58-.583 6.04.452.375 1.783.19 7.1-.992 4.868-1.082 5.554-1.142 6.409-.554 3.735 2.571 8.328 4.415 13.947 5.6 2.849.6 3.685.671 7.848.662 4.059-.008 5.05-.092 7.679-.647 2.843-.601 7.199-1.911 7.763-2.334.14-.106.641-.344 1.113-.53 1.063-.418 3.862-1.971 5.583-3.098 5.56-3.64 10.54-9.291 13.64-15.474 1.34-2.672 2.984-7.553 3.527-10.472.508-2.725.577-10.7.121-14.009-.673-4.894-3.02-10.92-5.913-15.186-6.624-9.768-15.461-15.573-26.87-17.65-2.745-.5-4.134-.617-7.112-.597-2.035.014-4.086.12-4.558.236ZM33.047 38.074c.438.438.954 1.601 2.333 5.259.57 1.513 3.055 6.168 4.214 7.896 1.397 2.082 2.858 3.443 3.586 3.34.533-.077.535-.091.535-6.331v-6.254l-.97-1.557c-.92-1.478-.95-1.588-.603-2.207l.365-.651h11.004l.31.613c.226.448.31 2.376.313 7.165.004 6.226.028 6.565.479 6.806.687.368 1.432-.006 2.746-1.38 1.2-1.253 3.401-4.302 3.401-4.71 0-.134.151-.394.335-.578.368-.368 2.957-5.4 3.2-6.222.084-.282.435-.778.78-1.103.6-.563.805-.595 4.427-.67 3.232-.067 3.893-.017 4.427.333.57.373.615.52.488 1.595-.16 1.341-.583 2.25-2.712 5.82-.826 1.386-1.614 2.71-1.751 2.944-.474.806-1.71 2.632-1.864 2.754-.466.367-1.689 2.632-1.689 3.127 0 .396.72 1.326 2.29 2.956 2.97 3.083 5.66 6.449 6.454 8.073.689 1.408.66 2.834-.064 3.11-.721.278-8.442.16-9.002-.136-.295-.156-1.032-.846-1.639-1.533-2.419-2.742-6.089-6.183-7.15-6.706-2.606-1.284-3.152-.553-3.152 4.222 0 3.67-.137 3.914-2.349 4.19-3.111.39-7.514-.43-10.244-1.907-2.893-1.565-6.164-4.463-8.38-7.425-.807-1.08-1.53-2.017-1.604-2.085-.241-.219-3.723-6.149-4.299-7.322-1.112-2.265-2.065-4.47-2.065-4.776a.908.908 0 0 0-.226-.545c-.431-.443-1.529-4.753-1.356-5.32.426-1.398.615-1.45 4.94-1.367 3.64.07 4.032.12 4.492.582Z"
+                                              fill="#000000"/>
+                                    </svg>
+                                </a></div><!-- /new soclinks --></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="t-map-lazyload t554_map" style="width:100%; height:600px;" data-maplazy-load="false">
+                    <div class="t-map" id="separateMap612235302" data-map-language="" data-map-x="-74.005941"
+                         data-map-y="40.7127837" data-map-zoom="15" data-map-title="Свяжитесь с нами"
+                         style="width:100%; height:600px;"
+                         data-map-style='[{"featureType":"water","elementType":"geometry.fill","stylers":[{"color":"#d3d3d3"}]},{"featureType":"transit","stylers":[{"color":"#808080"},{"visibility":"off"}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"visibility":"on"},{"color":"#b3b3b3"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.local","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#ffffff"},{"weight":1.8}]},{"featureType":"road.local","elementType":"geometry.stroke","stylers":[{"color":"#d7d7d7"}]},{"featureType":"poi","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#ebebeb"}]},{"featureType":"administrative","elementType":"geometry","stylers":[{"color":"#a7a7a7"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"landscape","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#efefef"}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"color":"#696969"}]},{"featureType":"administrative","elementType":"labels.text.fill","stylers":[{"visibility":"on"},{"color":"#737373"}]},{"featureType":"poi","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"road.arterial","elementType":"geometry.stroke","stylers":[{"color":"#d6d6d6"}]},{"featureType":"road","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{},{"featureType":"poi","elementType":"geometry.fill","stylers":[{"color":"#dadada"}]}]'></div>
+                    <script type="text/javascript">var arMapMarkers612235302 = [
+                        {
+                            title: "Зеленые домики",
+                            descr: "",
+                            lat: "44.910083",
+                            lng: "35.182849",
+                        },
+                    ];
+                    t_onReady(function () {
+                        t_map_lazyload_add_map();
+                        window.addEventListener('scroll', t_throttle(t_map_lazyload_add_map, 300));
+
+                        function t_map_lazyload_add_map() {
+                            var windowHeight = window.innerHeight;
+                            var scrollDiffHeigth = 700;
+                            var rec = document.getElementById('rec' + 612235302);
+                            if (!rec) return;
+                            var map = rec.querySelector('.t-map-lazyload');
+                            if (!map) return;
+                            var blockTop = map.getBoundingClientRect().top + window.pageYOffset;
+                            if (window.pageYOffset > blockTop - windowHeight - scrollDiffHeigth) {
+                                if (map.getAttribute('data-maplazy-load') === 'false') {
+                                    map.setAttribute('data-maplazy-load', 'true');
+                                    t_onFuncLoad('t_appendYandexMap', function () {
+                                        t_appendYandexMap("612235302", "80c6475b-0708-4b24-afb6-39dc62c0d52c");
+                                    });
+                                }
+                            }
+                        }
+                    });</script>
+                </div>
+            </div>
+        </div>
+        <script>t_onReady(function () {
+            t_onFuncLoad('t554__init', function () {
+                t554__init('612235302');
+            });
+        });</script>
+    </div>
+    <div id="rec611919663" class="r t-rec" style=" " data-animationappear="off" data-record-type="657"><!-- T657 -->
+        <div class="t657 t657_rectangle t657_closed" data-storage-item="t657cookiename_7521004" style="">
+            <div class="t657__wrapper t-align_center" style="">
+                <div class="t657__text t-name t-descr_xxs" style="font-weight:600;" field="text">Продолжая использовать
+                    этот сайт<br/>и нажимая кнопку «Принимаю», вы даете<br/><a href="cookes" target="_blank"
+                                                                               rel="noreferrer noopener"
+                                                                               style="color: rgb(7, 167, 106);">согласие
+                        на обработку файлов cookie</a></div>
+                <div class="t657__btn-wrapper">
+                    <div class="t657__btn t-btn t-btn_sm"
+                         style="color:#ffffff;background-color:#47a76a;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;text-transform:uppercase;">
+                        Принимаю
+                    </div>
+                </div>
+                <button type="button" class="t657__close-button t657__icon-close" aria-label="Закрыть уведомление">
+                    <svg role="presentation" width="10px" height="10px" viewBox="0 0 23 23" version="1.1"
+                         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <desc>Close</desc>
+                        <g stroke="none" stroke-width="1" fill="#000" fill-rule="evenodd">
+                            <rect transform="translate(11.313708, 11.313708) rotate(-45.000000) translate(-11.313708, -11.313708) "
+                                  x="10.3137085" y="-3.6862915" width="2" height="30"></rect>
+                            <rect transform="translate(11.313708, 11.313708) rotate(-315.000000) translate(-11.313708, -11.313708) "
+                                  x="10.3137085" y="-3.6862915" width="2" height="30"></rect>
+                        </g>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <script>t_onReady(function () {
+            t_onFuncLoad('t657_init', function () {
+                t657_init('611919663');
+            });
+        });</script>
+    </div>
+    <div id="rec611920439" class="r t-rec" style=" " data-record-type="833">
+        <div class="t833" data-coverslider-rec-ids="611908848">
+            <div class="t833__animation">
+                <div data-coverslider-id="611920439" class="t833__sliderwrapper">
+                    <div class="t833__filter" style="
+background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.30));
+background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.30));
+background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.30));
+background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.30));
+background-image: linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.30));
+filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#99000000', endColorstr='#b2000000');
+"></div>
+                    <div class="t833__slider t833__slider_fade">
+                        <div class="t833__slide t833__slide_opacity t-bgimg" bgimgfield="li_img__1524154001192"
+                             data-original="images/tild6231-3534-4135-a362-646536376164__dsc_0930.jpg"
+                             style="background-image: url('images/tild6231-3534-4135-a362-646536376164__-__resizeb__20x__dsc_0930.jpg');"></div>
+                        <div class="t833__slide t833__slide_opacity t-bgimg" bgimgfield="li_img__1524153986732"
+                             data-original="images/tild3239-6335-4630-a462-363232663036__dsc_0931.jpg"
+                             style="background-image: url('images/tild3239-6335-4630-a462-363232663036__-__resizeb__20x__dsc_0931.jpg');"></div>
+                        <div class="t833__slide t833__slide_opacity t-bgimg" bgimgfield="li_img__1524154106301"
+                             data-original="images/tild3238-3131-4836-b935-646539663033__dsc_0949.jpg"
+                             style="background-image: url('images/tild3238-3131-4836-b935-646539663033__-__resizeb__20x__dsc_0949.jpg');"></div>
+                        <div class="t833__slide t833__slide_opacity t-bgimg" bgimgfield="li_img__1688397996419"
+                             data-original="images/tild6463-3062-4462-b161-363666623963__dsc_0950.jpg"
+                             style="background-image: url('images/tild6463-3062-4462-b161-363666623963__-__resizeb__20x__dsc_0950.jpg');"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript">t_onReady(function () {
+            setTimeout(function () {
+                t_onFuncLoad('t833_init', function () {
+                    t833_init('611920439');
+                });
+            });
+        });</script>
+    </div><!--footer-->
+    <div id="t-footer" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="7521004"
+         data-tilda-page-id="37898858" data-tilda-page-alias="footer"
+         data-tilda-formskey="2ef02ac368e5dc1b03e21b9997521004" data-tilda-lazy="yes">
+        <div id="rec612334164" class="r t-rec t-rec_pt_0 t-rec_pb_0"
+             style="padding-top:0px;padding-bottom:0px;background-color:#47a76a; " data-animationappear="off"
+             data-record-type="452" data-bg-color="#47a76a"><!-- T452 -->
+            <div class="t452" id="t-footer_612334164">
+                <div class="t452__maincontainer" style="height: 80px;">
+                    <div class="t452__content">
+                        <div class="t452__col t452__col_hiddenmobile">
+                            <div class="t452__typo t452__copyright t-name t-name_xs" field="text"
+                                 style="color: #ffffff;">Гостиничный комплекс <br/>"Зеленые домики"
+                            </div>
+                        </div>
+                        <div class="t452__col t452__col_center t-align_center">
+                            <div class="t-sociallinks">
+                                <div class="t-sociallinks__wrapper"><!-- new soclinks -->
+                                    <div class="t-sociallinks__item t-sociallinks__item_phone"><a
+                                            href="tel:+7 (978) 731-12-12" target="_blank" rel="nofollow"
+                                            style="width: 30px; height: 30px;">
+                                        <svg class="t-sociallinks__svg" width=30px height=30px viewBox="0 0 100 100"
+                                             fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                  d="M50 100C77.6142 100 100 77.6142 100 50C100 22.3858 77.6142 0 50 0C22.3858 0 0 22.3858 0 50C0 77.6142 22.3858 100 50 100ZM32.3668 30.3616C33.8958 28.835 34.6798 28.1875 35.1534 28.0601C35.715 27.909 36.2052 28.0405 36.7168 28.4797C37.1497 28.8512 38.2438 29.9713 38.9927 30.8096C41.1931 33.2729 43.8747 36.6359 44.2503 37.4031C44.3639 37.6353 44.375 37.701 44.3558 38.0323C44.3204 38.643 44.196 38.8343 43.3793 39.5344C42.0767 40.6509 40.0803 42.739 39.3824 43.7149C38.9257 44.3535 38.9126 44.7536 39.3248 45.483C39.675 46.1027 41.378 48.345 42.5783 49.7667C44.5875 52.1467 46.9159 54.3696 49.1773 56.0669C50.8579 57.3283 53.2214 58.7821 54.8035 59.5275C55.9343 60.0603 56.2878 60.0303 57.0122 59.3401C57.7069 58.6782 58.5246 57.6102 59.8946 55.5759C60.3408 54.9132 60.7739 54.3136 60.857 54.2434C61.1104 54.0293 61.3967 53.9282 61.8141 53.9055C62.0813 53.891 62.2608 53.9062 62.4057 53.9555C62.6843 54.0504 63.4107 54.5045 66.36 56.4276C67.7285 57.32 69.2454 58.3032 69.7309 58.6125C72.4818 60.3651 72.7871 60.6005 72.9291 61.0781C73.1185 61.7157 72.9605 62.1254 72.063 63.3233C70.9487 64.8107 69.0734 66.8197 67.674 68.0252C66.5388 69.0032 65.0797 69.9865 63.6409 70.743L63.0188 71.0701L62.389 71.0696C60.5532 71.0685 58.822 70.7024 56.1724 69.7552C49.967 67.5366 44.465 64.2895 39.647 60.0025C38.7431 59.1981 36.6429 57.0816 35.8606 56.1866C33.2537 53.2039 31.2905 50.2948 29.5948 46.9021C28.373 44.4575 27.2502 41.6203 27.0609 40.4995C26.7835 38.8572 27.4592 36.7086 28.9757 34.4108C29.8832 33.0359 30.8773 31.8488 32.3668 30.3616V30.3616Z"
+                                                  fill="#ffffff"/>
+                                        </svg>
+                                    </a></div>
+                                    <div class="t-sociallinks__item t-sociallinks__item_whatsapp"><a
+                                            href="https://wa.me/79787311212" target="_blank" rel="nofollow"
+                                            style="width: 30px; height: 30px;">
+                                        <svg class="t-sociallinks__svg" width=30px height=30px viewBox="0 0 100 100"
+                                             fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                  d="M50 100C77.6142 100 100 77.6142 100 50C100 22.3858 77.6142 0 50 0C22.3858 0 0 22.3858 0 50C0 77.6142 22.3858 100 50 100ZM69.7626 28.9928C64.6172 23.841 57.7739 21.0027 50.4832 21C35.4616 21 23.2346 33.2252 23.2292 48.2522C23.2274 53.0557 24.4823 57.7446 26.8668 61.8769L23 76L37.4477 72.2105C41.4282 74.3822 45.9107 75.5262 50.4714 75.528H50.4823C65.5029 75.528 77.7299 63.301 77.7363 48.2749C77.7408 40.9915 74.9089 34.1446 69.7626 28.9928ZM62.9086 53.9588C62.2274 53.6178 58.8799 51.9708 58.2551 51.7435C57.6313 51.5161 57.1766 51.4024 56.7228 52.0845C56.269 52.7666 54.964 54.2998 54.5666 54.7545C54.1692 55.2092 53.7718 55.2656 53.0915 54.9246C52.9802 54.8688 52.8283 54.803 52.6409 54.7217C51.6819 54.3057 49.7905 53.4855 47.6151 51.5443C45.5907 49.7382 44.2239 47.5084 43.8265 46.8272C43.4291 46.1452 43.7837 45.7769 44.1248 45.4376C44.3292 45.2338 44.564 44.9478 44.7987 44.662C44.9157 44.5194 45.0328 44.3768 45.146 44.2445C45.4345 43.9075 45.56 43.6516 45.7302 43.3049C45.7607 43.2427 45.7926 43.1776 45.8272 43.1087C46.0545 42.654 45.9409 42.2565 45.7708 41.9155C45.6572 41.6877 45.0118 40.1167 44.4265 38.6923C44.1355 37.984 43.8594 37.3119 43.671 36.8592C43.1828 35.687 42.6883 35.69 42.2913 35.6924C42.2386 35.6928 42.1876 35.6931 42.1386 35.6906C41.7421 35.6706 41.2874 35.667 40.8336 35.667C40.3798 35.667 39.6423 35.837 39.0175 36.5191C38.9773 36.5631 38.9323 36.6111 38.8834 36.6633C38.1738 37.4209 36.634 39.0648 36.634 42.2002C36.634 45.544 39.062 48.7748 39.4124 49.2411L39.415 49.2444C39.4371 49.274 39.4767 49.3309 39.5333 49.4121C40.3462 50.5782 44.6615 56.7691 51.0481 59.5271C52.6732 60.2291 53.9409 60.6475 54.9303 60.9612C56.5618 61.4796 58.046 61.4068 59.22 61.2313C60.5286 61.0358 63.2487 59.5844 63.8161 57.9938C64.3836 56.4033 64.3836 55.0392 64.2136 54.7554C64.0764 54.5258 63.7545 54.3701 63.2776 54.1395C63.1633 54.0843 63.0401 54.0247 62.9086 53.9588Z"
+                                                  fill="#ffffff"/>
+                                        </svg>
+                                    </a></div>
+                                    <div class="t-sociallinks__item t-sociallinks__item_viber"><a
+                                            href="viber://chat?number=%2B7 (978) 731-12-12" target="_blank"
+                                            rel="nofollow" style="width: 30px; height: 30px;">
+                                        <svg class="t-sociallinks__svg" width=30px height=30px viewBox="0 0 100 100"
+                                             fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                  d="M50 100c27.614 0 50-22.386 50-50S77.614 0 50 0 0 22.386 0 50s22.386 50 50 50Zm19.546-71.18c-1.304-1.184-6.932-4.72-18.674-4.772 0 0-13.905-.913-20.655 5.2-3.757 3.71-5.022 9.226-5.161 15.957l-.016.691c-.156 6.885-.433 19.013 11.47 22.32l-.053 10.386c0 .587.093.988.428 1.071.241.059.602-.066.91-.372 1.968-1.978 8.271-9.582 8.271-9.582 8.457.553 15.186-1.117 15.91-1.354.17-.054.415-.111.72-.183 2.752-.641 10.37-2.417 11.776-13.773 1.613-13.003-.594-21.88-4.926-25.589ZM48.664 31.51a.908.908 0 0 1 .914-.901c4.585.032 8.468 1.56 11.584 4.597 3.146 3.067 4.696 7.24 4.736 12.404a.908.908 0 1 1-1.815.013c-.037-4.79-1.461-8.458-4.188-11.117-2.757-2.688-6.18-4.053-10.33-4.082a.908.908 0 0 1-.9-.914Zm2.374 2.932a1.15 1.15 0 1 0-.168 2.294c2.918.213 5.067 1.184 6.597 2.854 1.541 1.684 2.304 3.784 2.248 6.389a1.15 1.15 0 0 0 2.3.05c.067-3.133-.87-5.826-2.851-7.992-2.01-2.193-4.758-3.349-8.126-3.595Zm1.156 4.454a.908.908 0 1 0-.095 1.812c1.335.07 2.223.458 2.8 1.054.58.6.964 1.535 1.033 2.936a.908.908 0 0 0 1.813-.09c-.083-1.677-.558-3.09-1.542-4.108-.987-1.021-2.368-1.519-4.009-1.604Zm1.805 15.633c-.594.732-1.698.64-1.698.64-8.066-2.06-10.224-10.23-10.224-10.23s-.097-1.104.638-1.698l1.458-1.158c.722-.557 1.183-1.908.448-3.228a34.125 34.125 0 0 0-1.839-2.881c-.641-.877-2.136-2.671-2.142-2.677-.72-.85-1.78-1.048-2.898-.466a.045.045 0 0 0-.012.003l-.011.003a12.062 12.062 0 0 0-2.986 2.432c-.69.833-1.085 1.65-1.185 2.45a1.57 1.57 0 0 0-.022.357c-.003.354.05.706.16 1.042l.038.026c.348 1.236 1.22 3.296 3.114 6.731a40.117 40.117 0 0 0 3.735 5.654c.703.89 1.456 1.74 2.256 2.543l.029.03.057.056.085.086.086.085.086.086a29.64 29.64 0 0 0 2.543 2.255 40.072 40.072 0 0 0 5.655 3.736c3.433 1.894 5.495 2.766 6.73 3.114l.026.038c.336.11.688.164 1.041.16.12.006.24-.001.358-.022.802-.095 1.618-.49 2.448-1.184a.032.032 0 0 0 .007-.004.101.101 0 0 0 .003-.004l.012-.008a12.09 12.09 0 0 0 2.41-2.97l.003-.01a.054.054 0 0 0 .002-.013c.583-1.117.385-2.177-.47-2.899l-.189-.154c-.484-.4-1.783-1.47-2.487-1.988a34.12 34.12 0 0 0-2.879-1.838c-1.32-.736-2.669-.275-3.228.448L54 54.528Z"
+                                                  fill="#ffffff"/>
+                                        </svg>
+                                    </a></div><!-- /new soclinks --></div>
+                            </div>
+                        </div>
+                        <div class="t452__col t452__col_mobile">
+                            <div class="t452__typo t452__copyright t-name t-name_xs" field="text"
+                                 style="color: #ffffff;">Гостиничный комплекс <br/>"Зеленые домики"
+                            </div>
+                        </div>
+                        <div class="t452__col">
+                            <div class="t452__scroll t-align_right"><a
+                                    class="t452__typo t-name t-name_xs t452_scrolltop" style="color: #ffffff;"
+                                    href="javascript:t452_scrollToTop();">Наверх<span class="t452__icon"><svg
+                                    role="presentation" width="5px" height="17px" viewBox="0 0 6 20" version="1.1"><defs></defs><g
+                                    id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"
+                                    sketch:type="MSPage"><g id="Desktop-HD-Copy-39" sketch:type="MSArtboardGroup"
+                                                            transform="translate(-569.000000, -1797.000000)"
+                                                            fill="#ffffff"><path
+                                    d="M565.662286,1804.2076 L562.095536,1806.87166 C561.958036,1807.00916 561.958036,1807.16385 562.095536,1807.30135 L565.662286,1809.96541 C565.799786,1810.10291 565.941411,1810.0431 565.941411,1809.83616 L565.941411,1808.11741 L581.816411,1808.11741 L581.816411,1806.05491 L565.941411,1806.05491 L565.941411,1804.33616 C565.941411,1804.18147 565.866474,1804.1141 565.769536,1804.14297 C565.737224,1804.1526 565.696661,1804.17322 565.662286,1804.2076 Z"
+                                    id="Shape" sketch:type="MSShapeGroup"
+                                    transform="translate(571.904411, 1807.088000) rotate(-270.000000) translate(-571.904411, -1807.088000) "></path></g></g></svg></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!--/footer--></div><!--/allrecords--><!-- Tilda copyright. Don't remove this line -->
+<div class="t-tildalabel " id="tildacopy" data-tilda-sign="7521004#37873596"><a href="https://tilda.cc/?upm=7521004"
+                                                                                class="t-tildalabel__link">
+    <div class="t-tildalabel__wrapper">
+        <div class="t-tildalabel__txtleft">Made on</div>
+        <div class="t-tildalabel__wrapimg"><img src="images/tildacopy.png" class="t-tildalabel__img"
+                                                fetchpriority="low"></div>
+        <div class="t-tildalabel__txtright">Tilda</div>
+    </div>
+</a></div><!-- Stat -->
+<script type="text/javascript">if (!window.mainTracker) {
+    window.mainTracker = 'tilda';
+}
+setTimeout(function () {
+    (function (d, w, k, o, g) {
+        var n = d.getElementsByTagName(o)[0], s = d.createElement(o), f = function () {
+            n.parentNode.insertBefore(s, n);
+        };
+        s.type = "text/javascript";
+        s.async = true;
+        s.key = k;
+        s.id = "tildastatscript";
+        s.src = g;
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, '6ac84d1f20e1765ff3de62231ae37f9c', 'script', 'js/tilda-stat-1.0.min.js');
+}, 2000); </script>
+</body>
+</html>
